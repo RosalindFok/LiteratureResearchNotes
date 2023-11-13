@@ -1,0 +1,2071 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.11)  13 NOV 2023 10:51
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Note.tex
+(./Note.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-03>
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/ctex/ctexart.cls
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/ctex/config/ctexback
+end.cfg
+File: ctexbackend.cfg 2022/07/14 v2.5.10 Backend configuration file (CTEX)
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-08-03 L3 programming layer (loader) 
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-
+pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count185
+\l__pdf_internal_box=\box51
+))
+Document Class: ctexart 2022/07/14 v2.5.10 Chinese adapter for class article (C
+TEX)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2022/07/14 v2.5.10 Patching commands (CTEX)
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\l__ctex_tmp_int=\count186
+\l__ctex_tmp_box=\box52
+\l__ctex_tmp_dim=\dimen140
+\g__ctex_section_depth_int=\count187
+\g__ctex_font_size_int=\count188
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/ctex/config/ctexopts
+.cfg
+File: ctexopts.cfg 2022/07/14 v2.5.10 Option configuration file (CTEX)
+)
+
+Class ctexart Warning: UTF8 will be used as the default encoding.
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count189
+\c@section=\count190
+\c@subsection=\count191
+\c@subsubsection=\count192
+\c@paragraph=\count193
+\c@subparagraph=\count194
+\c@figure=\count195
+\c@table=\count196
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen141
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/ctex/engine/ctex-eng
+ine-pdftex.def
+File: ctex-engine-pdftex.def 2022/07/14 v2.5.10 (pdf)LaTeX adapter (CTEX)
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/cjk/texinput/CJKutf8
+.sty
+Package: CJKutf8 2021/10/16 4.8.5
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+Package: CJK 2021/10/16 4.8.5
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/cjk/texinput/mule/MU
+LEenc.sty
+Package: MULEenc 2021/10/16 4.8.5
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+File: CJK.enc 2021/10/16 4.8.5
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+\CJK@indent=\box53
+) (d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+))
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/cjkpunct/CJKpunct.st
+y
+Package: CJKpunct 2016/05/14 4.8.4
+\CJKpunct@cnta=\count197
+\CJKpunct@cntb=\count198
+\CJKpunct@cntc=\count199
+\CJKpunct@cntd=\count266
+\CJKpunct@cnte=\count267
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2026 (decimal 8230)
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/cjkpunct/CJKpunct.sp
+a))
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/cjk/texinput/CJKspac
+e.sty
+Package: CJKspace 2021/10/16 3.8.0
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/cjk/texinput/UTF8/UT
+F8.bdg
+File: UTF8.bdg 2021/10/16 4.8.5
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/ctex/ctexspa.def
+File: ctexspa.def 2022/07/14 v2.5.10 Space info for CJKpunct (CTEX)
+)
+\ccwd=\dimen142
+\l__ctex_ccglue_skip=\skip50
+)
+\l__ctex_ziju_dim=\dimen143
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/zhnumber/zhnumber.st
+y
+Package: zhnumber 2022/07/14 v3.0 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count268
+\l__zhnum_tmp_int=\count269
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/zhnumber/zhnumber-ut
+f8.cfg
+File: zhnumber-utf8.cfg 2022/07/14 v3.0 Chinese numerals with UTF8 encoding
+))
+\l__ctex_heading_skip=\skip51
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/ctex/scheme/ctex-sch
+eme-chinese-article.def
+File: ctex-scheme-chinese-article.def 2022/07/14 v2.5.10 Chinese scheme for art
+icle (CTEX)
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/ctex/config/ctex-nam
+e-utf8.cfg
+File: ctex-name-utf8.cfg 2022/07/14 v2.5.10 Caption with encoding UTF-8 (CTEX)
+))
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/ctex/fontset/ctex-fo
+ntset-windows.def
+File: ctex-fontset-windows.def 2022/07/14 v2.5.10 Windows fonts definition (CTE
+X)
+))
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2022/07/14 v2.5.10 Configuration file (CTEX)
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/breakurl/breakurl.st
+y
+Package: breakurl 2013/04/10 v1.40 Breakable hyperref URLs
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/xkeyval/xkeyval.te
+x
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/xkeyval/xkvutils.t
+ex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/xkeyval/keyval.tex
+))
+\XKV@depth=\count270
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+
+Package breakurl Warning: You are using breakurl while processing via pdflatex.
+
+(breakurl)                \burl will be just a synonym of \url.
+(breakurl)                 on input line 48.
+
+) (d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen144
+)) (d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.st
+y
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen145
+) (d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count271
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count272
+\leftroot@=\count273
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count274
+\DOTSCASE@=\count275
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen146
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count276
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count277
+\dotsspace@=\muskip17
+\c@parentequation=\count278
+\dspbrk@lvl=\count279
+\tag@help=\toks22
+\row@=\count280
+\column@=\count281
+\maxfields@=\count282
+\andhelp@=\toks23
+\eqnshift@=\dimen147
+\alignsep@=\dimen148
+\tagshift@=\dimen149
+\tagwidth@=\dimen150
+\totwidth@=\dimen151
+\lineht@=\dimen152
+\@envbody=\toks24
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks26
+\thm@bodyfont=\toks27
+\thm@headfont=\toks28
+\thm@notefont=\toks29
+\thm@headpunct=\toks30
+\thm@preskip=\skip55
+\thm@postskip=\skip56
+\thm@headsep=\skip57
+\dth@everypar=\toks31
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.st
+y
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/appendix/appendix.st
+y
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count283
+\c@@ppsavesec=\count284
+\c@@ppsaveapp=\count285
+) (d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2022/01/05 v1.2f Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
+Package bm Info: No bold for \U/msa/m/n, using \pmb.
+Package bm Info: No bold for \U/msb/m/n, using \pmb.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.st
+y
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/graphics/graphics.st
+y
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphic
+s.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.
+def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.st
+y
+Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.st
+y
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexc
+mds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarer
+r.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.
+sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/kvdefinekeys/kvdef
+inekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pdfescape/pdfescap
+e.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/letltxmacro/letltxma
+cro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/refcount/refcount.st
+y
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/gettitlestring/get
+titlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.
+sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count286
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.st
+y
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count287
+)
+\@linkdim=\dimen155
+\Hy@linkcounter=\count288
+\Hy@pagecounter=\count289
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/intcalc/intcalc.st
+y
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count290
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4050.
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing OFF on input line 4187.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4434.
+\c@Hy@tempcnt=\count291
+LaTeX Info: Redefining \url on input line 4772.
+\XeTeXLinkMargin=\dimen156
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintc
+alc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count292
+\Field@Width=\dimen157
+\Fld@charsize=\dimen158
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing OFF on input line 6066.
+Package hyperref Info: Link coloring OFF on input line 6071.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/base/atbegshi-ltx.st
+y
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count293
+\c@Item=\count294
+\c@Hfootnote=\count295
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/base/atveryend-ltx.s
+ty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count296
+\c@bookmark@seq@number=\count297
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerun
+filecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/uniquecounter/uniq
+uecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip58
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/jknapltx/mathrsfs.st
+y
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup9
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.c
+fg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.l
+tx))
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/pgf/frontendlayer/ti
+kz.sty
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgf.s
+ty
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfrcs
+.sty
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfu
+til-common.tex
+\pgfutil@everybye=\toks32
+\pgfutil@tempdima=\dimen159
+\pgfutil@tempdimb=\dimen160
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfu
+til-latex.def
+\pgfutil@abb=\box56
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfr
+cs.code.tex
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/pgf.revision.t
+ex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgfco
+re.sty
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/pgf/systemlayer/pgfs
+ys.sty
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pg
+fsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfk
+eys.code.tex
+\pgfkeys@pathtoks=\toks33
+\pgfkeys@temptoks=\toks34
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfk
+eyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks35
+))
+\pgf@x=\dimen161
+\pgf@y=\dimen162
+\pgf@xa=\dimen163
+\pgf@ya=\dimen164
+\pgf@xb=\dimen165
+\pgf@yb=\dimen166
+\pgf@xc=\dimen167
+\pgf@yc=\dimen168
+\pgf@xd=\dimen169
+\pgf@yd=\dimen170
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count298
+\c@pgf@countb=\count299
+\c@pgf@countc=\count300
+\c@pgf@countd=\count301
+\t@pgf@toka=\toks36
+\t@pgf@tokb=\toks37
+\t@pgf@tokc=\toks38
+\pgf@sys@id@count=\count302
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pg
+f.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pg
+fsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pg
+fsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pg
+fsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count303
+\pgfsyssoftpath@bigbuffer@items=\count304
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pg
+fsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.c
+fg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+LaTeX Info: Redefining \color on input line 711.
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.l
+tx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgf
+core.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmath.c
+ode.tex
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathut
+il.code.tex)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathpa
+rser.code.tex
+\pgfmath@dimen=\dimen171
+\pgfmath@count=\count305
+\pgfmath@box=\box57
+\pgfmath@toks=\toks39
+\pgfmath@stack@operand=\toks40
+\pgfmath@stack@operation=\toks41
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfu
+nctions.code.tex)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfu
+nctions.basic.code.tex)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfu
+nctions.trigonometric.code.tex)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfu
+nctions.random.code.tex)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfu
+nctions.comparison.code.tex)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfu
+nctions.base.code.tex)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfu
+nctions.round.code.tex)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfu
+nctions.misc.code.tex)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfu
+nctions.integerarithmetics.code.tex)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathca
+lc.code.tex)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfl
+oat.code.tex
+\c@pgfmathroundto@lastzeros=\count306
+))
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfint.co
+de.tex)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgf
+corepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen172
+\pgf@picmaxx=\dimen173
+\pgf@picminy=\dimen174
+\pgf@picmaxy=\dimen175
+\pgf@pathminx=\dimen176
+\pgf@pathmaxx=\dimen177
+\pgf@pathminy=\dimen178
+\pgf@pathmaxy=\dimen179
+\pgf@xx=\dimen180
+\pgf@xy=\dimen181
+\pgf@yx=\dimen182
+\pgf@yy=\dimen183
+\pgf@zx=\dimen184
+\pgf@zy=\dimen185
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgf
+corepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen186
+\pgf@path@lasty=\dimen187
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgf
+corepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen188
+\pgf@shorten@start@additional=\dimen189
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgf
+corescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box58
+\pgf@hbox=\box59
+\pgf@layerbox@main=\box60
+\pgf@picture@serial@count=\count307
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgf
+coregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen190
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgf
+coretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen191
+\pgf@pt@y=\dimen192
+\pgf@pt@temp=\dimen193
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgf
+corequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgf
+coreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgf
+corepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgf
+corearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen194
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgf
+coreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen195
+\pgf@sys@shading@range@num=\count308
+\pgf@shadingcount=\count309
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgf
+coreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgf
+coreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box61
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgf
+corelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgf
+coretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgf
+corepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgf
+corerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmod
+uleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box62
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmod
+uleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pg
+fcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen196
+\pgf@nodesepend=\dimen197
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pg
+fcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgffor
+.sty
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfkey
+s.sty
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfk
+eys.code.tex))
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmath.c
+ode.tex))
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgff
+or.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen198
+\pgffor@skip=\dimen199
+\pgffor@stack=\toks42
+\pgffor@toks=\toks43
+))
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/
+tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgfl
+ibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count310
+\pgfplotmarksize=\dimen256
+)
+\tikz@lastx=\dimen257
+\tikz@lasty=\dimen258
+\tikz@lastxsaved=\dimen259
+\tikz@lastysaved=\dimen260
+\tikz@lastmovetox=\dimen261
+\tikz@lastmovetoy=\dimen262
+\tikzleveldistance=\dimen263
+\tikzsiblingdistance=\dimen264
+\tikz@figbox=\box63
+\tikz@figbox@bg=\box64
+\tikz@tempbox=\box65
+\tikz@tempbox@bg=\box66
+\tikztreelevel=\count311
+\tikznumberofchildren=\count312
+\tikznumberofcurrentchild=\count313
+\tikz@fig@count=\count314
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmod
+ulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count315
+\pgfmatrixcurrentcolumn=\count316
+\pgf@matrix@numberofcolumns=\count317
+)
+\tikz@expandcount=\count318
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/
+tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/
+tikz/libraries/tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/
+tikz/libraries/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/libraries/shap
+es/pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/
+tikz/libraries/tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/libraries/shap
+es/pgflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/
+tikz/libraries/tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/libraries/shap
+es/pgflibraryshapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/
+tikz/libraries/tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/libraries/shap
+es/pgflibraryshapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/
+tikz/libraries/tikzlibraryshapes.callouts.code.tex
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/libraries/shap
+es/pgflibraryshapes.callouts.code.tex))
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/
+tikz/libraries/tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/libraries/shap
+es/pgflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodepartlowerbox=\box67
+\pgfnodeparttwobox=\box68
+\pgfnodepartthreebox=\box69
+\pgfnodepartfourbox=\box70
+\pgfnodeparttwentybox=\box71
+\pgfnodepartnineteenbox=\box72
+\pgfnodeparteighteenbox=\box73
+\pgfnodepartseventeenbox=\box74
+\pgfnodepartsixteenbox=\box75
+\pgfnodepartfifteenbox=\box76
+\pgfnodepartfourteenbox=\box77
+\pgfnodepartthirteenbox=\box78
+\pgfnodeparttwelvebox=\box79
+\pgfnodepartelevenbox=\box80
+\pgfnodeparttenbox=\box81
+\pgfnodepartninebox=\box82
+\pgfnodeparteightbox=\box83
+\pgfnodepartsevenbox=\box84
+\pgfnodepartsixbox=\box85
+\pgfnodepartfivebox=\box86
+)))
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/
+tikz/libraries/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgfl
+ibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\arrowsize=\dimen265
+))
+\c@theorem=\count319
+Package hyperref Info: Option `colorlinks' set `true' on input line 41.
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/cjk/texinput/UTF8/UT
+F8.enc
+File: UTF8.enc 2021/10/16 4.8.5
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/cjk/texinput/UTF8/UT
+F8.chr
+File: UTF8.chr 2021/10/16 4.8.5
+) (./Note.aux)
+\openout1 = `Note.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf
+.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count320
+\scratchdimen=\dimen266
+\scratchbox=\box87
+\nofMPsegments=\count321
+\nofMParguments=\count322
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count323
+\MPscratchDim=\dimen267
+\MPnumerator=\count324
+\makeMPintoPDFobject=\count325
+\everyMPtoPDFconversion=\toks45
+)
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopd
+f-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf
+-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package hyperref Info: Link coloring ON on input line 43.
+ (./Note.out) (./Note.out)
+\@outlinefile=\write4
+\openout4 = `Note.out'.
+
+LaTeX Font Info:    Trying to load font information for C70+rm on input line 46
+.
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/ctex/fd/c70rm.fd
+File: c70rm.fd 2022/07/14 v2.5.10 Chinese font definition (CTEX)
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 46.
+
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 46.
+
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 46
+.
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (
+quanjiao) on input line 53.
+
+Overfull \hbox (32.3501pt too wide) in paragraph at lines 53--54
+\C70/rm/m/n/10.95/57 : \C70/rm/m/n/10.95/66 o \C70/rm/m/n/10.95/76 Ñ \C70/rm/m/
+n/10.95/89 ∆ … \C70/rm/m/n/10.95/56 ˛ \C70/rm/m/n/10.95/50 œ \C70/rm/m/n/10.95/
+76 Ñ \C70/rm/m/n/10.95/91 Õ \C70/rm/m/n/10.95/5e ˙ \C70/rm/m/n/10.95/5d Â \C70/
+rm/m/n/10.95/4f \|\C70/rm/m/n/10.95/30 ^^B| \OT1/cmr/m/n/10.95 4.6|\C70/rm/m/n/
+10.95/30 ^^A| \OT1/cmr/m/n/10.95 4.7|\C70/rm/m/n/10.95/30 ^^A| \OT1/cmr/m/n/10.
+95 4.8\C70/rm/m/n/10.95/8f Ÿ\OT1/cmr/m/n/10.95 3\C70/rm/m/n/10.95/7b « \C70/rm/
+m/n/10.95/5d Â \C70/rm/m/n/10.95/4f \ \C70/rm/m/n/10.95/57 G (\OT1/cmr/m/n/10.9
+5 algonauts\C70/rm/m/n/10.95/76 Ñ\OT1/cmr/m/n/10.95 2023\C70/rm/m/n/10.95/63 ^^
+Q
+ []
+
+
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/generic/ctex/zhmap/ctex-zh
+map-windows.tex
+File: ctex-zhmap-windows.tex 2022/07/14 v2.5.10 Windows font map loader for pdf
+TeX and DVIPDFMx (CTEX)
+{d:/TextProcessing/Latex/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.
+map}{UGBK.sfd}{Unicode.sfd}) [0
+
+] (./Note.toc [1]
+Overfull \hbox (52.97057pt too wide) in paragraph at lines 37--37
+ [][] [][][]\C70/rm/m/n/12/57 ˙ \C70/rm/m/n/12/4e é\OT1/cmr/m/n/12 NeRF\C70/rm/
+m/n/12/76 Ñ \C70/rm/m/n/12/4e 	 \C70/rm/m/n/12/7e Ù \C70/rm/m/n/12/89 ∆ … \C70/
+rm/m/n/12/5e t ¶ \C70/rm/m/n/12/8f € \C70/rm/m/n/12/5c U \C70/rm/m/n/12/62 • \C
+70/rm/m/n/12/54 J \C70/rm/m/n/12/52 ^^X \C70/rm/m/n/12/70 Ë \C70/rm/m/n/12/65 å
+\OT1/cmr/m/n/12 (\C70/rm/m/n/12/6e ^^E \C70/rm/m/n/12/53 N \C70/rm/m/n/12/59 ' 
+\C70/rm/m/n/12/5b f\OT1/cmr/m/n/12 ) 2023\C70/rm/m/n/12/5e t\OT1/cmr/m/n/12 6\C
+70/rm/m/n/12/67 ^^H\OT1/cmr/m/n/12 14\C70/rm/m/n/12/65 Â[][] [][]  
+ []
+
+)
+\tf@toc=\write5
+\openout5 = `Note.toc'.
+
+ [2{d:/TextProcessing/Latex/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm
+-super-ts1.enc}]
+Underfull \hbox (badness 10000) in paragraph at lines 71--81
+
+ []
+
+
+Overfull \hbox (1.2715pt too wide) in paragraph at lines 85--91
+\C70/rm/m/n/12/65 p \C70/rm/m/n/12/63 n \C70/rm/m/n/12/96 ∆ \C70/rm/m/n/12/6a !
+ \C70/rm/m/n/12/60 ^^A|\C70/rm/m/n/12/ff ^^Z| \OT1/cmr/m/n/12 MRI(\C70/rm/m/n/1
+2/68 8 \C70/rm/m/n/12/78 ¡ \C70/rm/m/n/12/51 q \C70/rm/m/n/12/63 /\OT1/cmr/m/n/
+12 )|\C70/rm/m/n/12/30 ^^A| \OT1/cmr/m/n/12 PET(\C70/rm/m/n/12/6b c \C70/rm/m/n
+/12/75 5 \C70/rm/m/n/12/5b P \C70/rm/m/n/12/53 — \C70/rm/m/n/12/5c ^^D \C70/rm/
+m/n/12/65 ≠ \C70/rm/m/n/12/5c B \C70/rm/m/n/12/62 k \C70/rm/m/n/12/63 œ\OT1/cmr
+/m/n/12 )|\C70/rm/m/n/12/30 ^^A| \OT1/cmr/m/n/12 EEG(\C70/rm/m/n/12/81 ^^Q \C70
+/rm/m/n/12/75 5 \C70/rm/m/n/12/56 ˛\OT1/cmr/m/n/12 )|\C70/rm/m/n/12/30 ^^A|
+ []
+
+[1] [2]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 128.
+
+
+Overfull \hbox (76.46571pt too wide) in paragraph at lines 139--151
+ [] 
+ []
+
+
+Overfull \hbox (2.25009pt too wide) in paragraph at lines 155--159
+\C70/rm/m/n/12/4e  \C70/rm/m/n/12/8f } \C70/rm/m/n/12/57 0 @|\C70/rm/m/n/12/ff
+ ^^Z| [][]$\OT1/cmtt/m/n/12 h t t p s : / / d r i v e . g o o g l e . c o m / d
+ r i v e / f o l d e r s / 1 7 R y B A n v D h r r t 1 8
+ []
+
+
+Overfull \hbox (2.25009pt too wide) in paragraph at lines 155--159
+\C70/rm/m/n/12/4e „ \C70/rm/m/n/12/78 ^^A \C70/rm/m/n/12/65 Y \C70/rm/m/n/12/7a
+ |\C70/rm/m/n/12/ff ^^Z| [][]$\OT1/cmtt/m/n/12 h t t p s : / / c o l a b . r e
+ s e a r c h . g o o g l e . c o m / d r i v e / 1 b L J G P 3 b A o _ h A O
+ []
+
+[3]
+Overfull \hbox (5.86696pt too wide) in paragraph at lines 160--161
+\C70/rm/m/n/12/50 œ \C70/rm/m/n/12/66   \C70/rm/m/n/12/5c ^^D \C70/rm/m/n/12/56
+ ﬁ \C70/rm/m/n/12/53 ü \C70/rm/m/n/12/59 À \C70/rm/m/n/12/76 Ñ\OT1/cmr/m/n/12 '
+.hdf5'nsd\C70/rm/m/n/12/56 ˛ \C70/rm/m/n/12/50 œ \C70/rm/m/n/12/65 á \C70/rm/m/
+n/12/4e ˆ |\C70/rm/m/n/12/ff ^^H|\C70/rm/m/n/12/51 v \C70/rm/m/n/12/4e - \C70/r
+m/m/n/12/53 ^^E \C70/rm/m/n/12/54 +\OT1/cmr/m/n/12 nsd\C70/rm/m/n/12/5b û \C70/
+rm/m/n/12/9a å \C70/rm/m/n/12/4e - \C70/rm/m/n/12/4f ^^? \C70/rm/m/n/12/75 ( \C
+70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/62 @ \C70/rm/m/n/12/67 	\OT1/cmr/m/n/12 73000\
+C70/rm/m/n/12/4e *
+ []
+
+[4]
+Overfull \hbox (3.72237pt too wide) in paragraph at lines 176--177
+[]\OT1/cmr/m/n/12 Body-selective re-gions (floc-bodies): EBA, FBA-1, FBA-2, mTL
+-bodies. 
+ []
+
+
+Overfull \hbox (2.25009pt too wide) in paragraph at lines 193--194
+[]\C70/rm/m/n/12/4e „ \C70/rm/m/n/12/78 ^^A|\C70/rm/m/n/12/ff ^^Z| [][]$\OT1/cm
+tt/m/n/12 h t t p s : / / g i t h u b . c o m / H o s s e i n a d e l i / a l g
+ o n a u t s 2 0 2 3 _ t r a n s f o r
+ []
+
+[5]
+Overfull \hbox (130.6093pt too wide) in paragraph at lines 209--214
+\C70/rm/m/n/12/6b œ \C70/rm/m/n/12/54 ^^M \C70/rm/m/n/12/53 ◊ \C70/rm/m/n/12/8b
+ ’ \C70/rm/m/n/12/80 ^^E \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/65 p \C70/rm/m/n/12
+/63 n \C70/rm/m/n/12/53 ^^E \C70/rm/m/n/12/54 + \C70/rm/m/n/12/57 ( \C70/rm/m/n
+/12/59 ^^Z \C70/rm/m/n/12/6b ! \C70/rm/m/n/12/62 k \C70/rm/m/n/12/63 œ \C70/rm/
+m/n/12/8f « \C70/rm/m/n/12/7a  \C70/rm/m/n/12/4e - \C70/rm/m/n/12/65 6 \C70/rm
+/m/n/12/96 ∆ \C70/rm/m/n/12/76 Ñ\OT1/cmr/m/n/12 5\C70/rm/m/n/12/7c {\OT1/cmr/m/
+n/12 MRI\C70/rm/m/n/12/65 p \C70/rm/m/n/12/63 n|\C70/rm/m/n/12/ff ^^Z| \OT1/cmr
+/m/n/12 ses-perceptionNaturalImageTraining|\C70/rm/m/n/12/30 ^^A|
+ []
+
+
+Overfull \hbox (85.79153pt too wide) in paragraph at lines 209--214
+\OT1/cmr/m/n/12 ses-perceptionNaturalImageTest|\C70/rm/m/n/12/30 ^^A| \OT1/cmr/
+m/n/12 ses-perceptionArtificialImage|\C70/rm/m/n/12/30 ^^A| \OT1/cmr/m/n/12 ses
+-perceptionLetterImage|\C70/rm/m/n/12/30 ^^A|
+ []
+
+
+Overfull \hbox (1.46121pt too wide) in paragraph at lines 215--215
+\OT1/cmr/bx/n/14.4 Rep-re-sen-ta-tion with se-man-tic fea-ture an-no-ta-tions 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--220
+
+ []
+
+[6]
+Overfull \hbox (3.82115pt too wide) in paragraph at lines 228--228
+[]\OT1/cmr/bx/n/14.4 OpenNeuro2022\C70/rm/bx/n/14.4/5e t \OT1/cmr/bx/n/14.4 Thi
+ngs-EEG Hu-man elec-troen-
+ []
+
+[7]
+Overfull \hbox (0.8829pt too wide) in paragraph at lines 248--248
+[]\OT1/cmr/bx/n/14.4 OpenNeuro2023\C70/rm/bx/n/14.4/5e t \OT1/cmr/bx/n/14.4 Raw
+ data for En-gag-ing in word
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 259.
+
+
+Overfull \hbox (3.17679pt too wide) in paragraph at lines 260--264
+\C70/rm/m/n/12/68 ^^G \C70/rm/m/n/12/98 ò|\C70/rm/m/n/12/ff ^^Z| \OT1/cmr/m/n/1
+2 Neural De-cod-ing of Vi-sual In-for-ma-tion Across Dif-fer-ent Neu-ral Record
+-
+ []
+
+
+Overfull \hbox (4.4501pt too wide) in paragraph at lines 260--264
+\C70/rm/m/n/12/94 ˛ \C70/rm/m/n/12/63 •|\C70/rm/m/n/12/ff ^^Z| [][]$\OT1/cmtt/m
+/n/12 h t t p s : / / l i n k . s p r i n g e r . c o m / a r t i c l e / 1 0 .
+ 1 0 0 7 / s 1 1 6 33 -[] 0 2 2 -[] 1 3 35 -[]
+ []
+
+[8]
+Overfull \hbox (4.01958pt too wide) in paragraph at lines 265--265
+[]\OT1/cmr/bx/n/14.4 2023\C70/rm/bx/n/14.4/5e t\OT1/cmr/bx/n/14.4 7\C70/rm/bx/n
+/14.4/67 ^^H \C70/rm/bx/n/14.4/53 ; \C70/rm/bx/n/14.4/5b f \C70/rm/bx/n/14.4/56
+ ˛ \C70/rm/bx/n/14.4/50 œ \C70/rm/bx/n/14.4/63 œ \C70/rm/bx/n/14.4/8f  \C70/rm
+/bx/n/14.4/7e ¸ \C70/rm/bx/n/14.4/8f |\C70/rm/bx/n/14.4/ff ^^Z| \C70/rm/bx/n/1
+4.4/7f ^^V \C70/rm/bx/n/14.4/78 ^^A|\C70/rm/bx/n/14.4/30 ^^A| \C70/rm/bx/n/14.4
+/89 „ \C70/rm/bx/n/14.4/78 ^^A \C70/rm/bx/n/14.4/53   \C70/rm/bx/n/14.4/67 ^^@ 
+\C70/rm/bx/n/14.4/65 ∞ \C70/rm/bx/n/14.4/8f € \C70/rm/bx/n/14.4/5c U\OT1/cmr/bx
+/n/14.4 [[]] 
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 265.
+
+<pic/3.2_structure.png, id=519, 435.12563pt x 288.3272pt>
+File: pic/3.2_structure.png Graphic file (type png)
+<use pic/3.2_structure.png>
+Package pdftex.def Info: pic/3.2_structure.png  used on input line 272.
+(pdftex.def)             Requested size: 370.49881pt x 245.51921pt.
+
+Overfull \hbox (33.63567pt too wide) in paragraph at lines 277--278
+\C70/rm/m/n/12/53 ; \C70/rm/m/n/12/5b f \C70/rm/m/n/12/56 ˛ \C70/rm/m/n/12/50 œ
+ \C70/rm/m/n/12/63 œ \C70/rm/m/n/12/8f  \C70/rm/m/n/12/8b ∫ \C70/rm/m/n/12/65 
+á \C70/rm/m/n/12/4e -|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/4e ^^@ \C70/rm/m/n/
+12/5b ö \C70/rm/m/n/12/4f ^^Z \C70/rm/m/n/12/7e Ÿ \C70/rm/m/n/12/51 ˙\OT1/cmr/m
+/n/12 BLEU\C70/rm/m/n/12/5f ó \C70/rm/m/n/12/52 ^^F|\C70/rm/m/n/12/ff ^^L| \C70
+/rm/m/n/12/80 ^^L\OT1/cmr/m/n/12 ROUGE|\C70/rm/m/n/12/30 ^^A| \OT1/cmr/m/n/12 M
+ETEOR\C70/rm/m/n/12/54 å\OT1/cmr/m/n/12 CIDEr\C70/rm/m/n/12/5f ó
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 280.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--283
+
+ []
+
+[9] [10 <./pic/3.2_structure.png (PNG copy)>]
+Overfull \hbox (1.44922pt too wide) in paragraph at lines 307--308
+\C70/rm/m/n/12/5f ^^O \C70/rm/m/n/12/88 h \C70/rm/m/n/12/8f æ$\OML/cmm/m/it/12 
+z$|\C70/rm/m/n/12/ff ^^L| $\OML/cmm/m/it/12 z$\C70/rm/m/n/12/51 ç \C70/rm/m/n/1
+2/7e œ \C70/rm/m/n/12/75 1 \C70/rm/m/n/12/81 Í \C70/rm/m/n/12/52 ® \C70/rm/m/n/
+12/7f ^^V \C70/rm/m/n/12/78 ^^A \C70/rm/m/n/12/56 h \C70/rm/m/n/12/76 Ñ \C70/rm
+/m/n/12/89 „ \C70/rm/m/n/12/78 ^^A \C70/rm/m/n/12/6a ! \C70/rm/m/n/12/57 W \C70
+/rm/m/n/12/59 ^^D \C70/rm/m/n/12/74 ^^F \C70/rm/m/n/12/75 ^^_ \C70/rm/m/n/12/62
+ ^^P \C70/rm/m/n/12/4e ^^@ * \C70/rm/m/n/12/7c ó \C70/rm/m/n/12/75 e \C70/rm/m/
+n/12/89 „ \C70/rm/m/n/12/78 ^^A \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/56 ˛ \C70/rm
+/m/n/12/50 œ$\OML/cmm/m/it/12 X[]$|\C70/rm/m/n/12/30 ^^B|
+ []
+
+<pic/4.1_latent diffusion model.png, id=556, 453.19313pt x 219.82124pt>
+File: pic/4.1_latent diffusion model.png Graphic file (type png)
+<use pic/4.1_latent diffusion model.png>
+Package pdftex.def Info: pic/4.1_latent diffusion model.png  used on input line
+ 315.
+(pdftex.def)             Requested size: 370.49881pt x 179.7112pt.
+<pic/4.1_decoding analysis.png, id=557, 383.18156pt x 286.06876pt>
+File: pic/4.1_decoding analysis.png Graphic file (type png)
+<use pic/4.1_decoding analysis.png>
+Package pdftex.def Info: pic/4.1_decoding analysis.png  used on input line 317.
+
+(pdftex.def)             Requested size: 370.49881pt x 276.6177pt.
+<pic/4.1_encoding analysis.png, id=558, 462.97969pt x 244.66406pt>
+File: pic/4.1_encoding analysis.png Graphic file (type png)
+<use pic/4.1_encoding analysis.png>
+Package pdftex.def Info: pic/4.1_encoding analysis.png  used on input line 319.
+
+(pdftex.def)             Requested size: 370.49881pt x 195.79497pt.
+
+LaTeX Warning: Float too large for page by 95.07387pt on input line 322.
+
+[11] [12 <./pic/4.1_latent diffusion model.png (PNG copy)> <./pic/4.1_decoding 
+analysis.png (PNG copy)> <./pic/4.1_encoding analysis.png (PNG copy)>]
+Overfull \hbox (11.46706pt too wide) in paragraph at lines 333--334
+[][]\C70/rm/m/n/12/5b ö \C70/rm/m/n/12/91 œ \C70/rm/m/n/12/5b û \C70/rm/m/n/12/
+9a å|\C70/rm/m/n/12/ff ^^Z| \C70/rm/m/n/12/4f ^^? \C70/rm/m/n/12/75 (\OT1/cmr/m
+/n/12 PSMs(perceptual sim-i-lar-ity met-rics\C70/rm/m/n/12/61 ^^_ \C70/rm/m/n/1
+2/77 Â \C70/rm/m/n/12/76 ¯ \C70/rm/m/n/12/4f < \C70/rm/m/n/12/5e ¶ \C70/rm/m/n/
+12/63 ^^G \C70/rm/m/n/12/68 ^^G\OT1/cmr/m/n/12 )\C70/rm/m/n/12/63 ^^G
+ []
+
+
+Overfull \hbox (3.88344pt too wide) in paragraph at lines 359--360
+[]\C70/rm/m/n/12/98 y \C70/rm/m/n/12/76 Ó \C70/rm/m/n/12/4e „ \C70/rm/m/n/12/78
+ ^^A|\C70/rm/m/n/12/ff ^^Z| [][]$\OT1/cmtt/m/n/12 h t t p s : / / g i t h u b .
+ c o m / y u -[] t a k a g i / S t a b l e D i f f u s i o n R e c o n s
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 365--366
+
+ []
+
+
+Overfull \hbox (45.67374pt too wide) in paragraph at lines 383--383
+[]\OT1/cmr/bx/n/14.4 2022\C70/rm/bx/n/14.4/5e t\OT1/cmr/bx/n/14.4 4\C70/rm/bx/n
+/14.4/67 ^^H \OT1/cmr/bx/n/14.4 Ope-nAI\C70/rm/bx/n/14.4/51 l \C70/rm/bx/n/14.4
+/53 ¯ \C70/rm/bx/n/14.4/63 – \C70/rm/bx/n/14.4/51 ˙ \C70/rm/bx/n/14.4/76 Ñ \C70
+/rm/bx/n/14.4/57 ˙ \C70/rm/bx/n/14.4/4e é\OT1/cmr/bx/n/14.4 CLIP\C70/rm/bx/n/14
+.4/6a ! \C70/rm/bx/n/14.4/57 ã \C70/rm/bx/n/14.4/65 9 \C70/rm/bx/n/14.4/8f € \C
+70/rm/bx/n/14.4/76 Ñ\OT1/cmr/bx/n/14.4 DALL\TS1/cmr/bx/n/14.4 ∑\OT1/cmr/bx/n/14
+.4 E
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 383.
+
+[14]
+Overfull \hbox (22.9314pt too wide) in paragraph at lines 401--402
+[]\C70/rm/m/n/12/5c ^ \C70/rm/m/n/12/4e é\OT1/cmr/m/n/12 AIGC(AI-Generated Con-
+tent)\C70/rm/m/n/12/83 ^^C \C70/rm/m/n/12/75 t \C70/rm/m/n/12/4e  \C70/rm/m/n/
+12/76 Ñ \C70/rm/m/n/12/82 z \C70/rm/m/n/12/67 / \C70/rm/m/n/12/60 ' \C70/rm/m/n
+/12/76 Ñ \C70/rm/m/n/12/59 ' \C70/rm/m/n/12/6a ! \C70/rm/m/n/12/57 ã \C70/rm/m/
+n/12/5d Â \C70/rm/m/n/12/4f \|\C70/rm/m/n/12/30 ^^B| \OT1/cmr/m/n/12 AIGC\C70/r
+m/m/n/12/4e 
+ []
+
+<pic/4.2_unCLIP.png, id=598, 607.51968pt x 265.74281pt>
+File: pic/4.2_unCLIP.png Graphic file (type png)
+<use pic/4.2_unCLIP.png>
+Package pdftex.def Info: pic/4.2_unCLIP.png  used on input line 408.
+(pdftex.def)             Requested size: 370.49881pt x 162.06638pt.
+
+Overfull \hbox (13.79198pt too wide) in paragraph at lines 413--414
+[]\C70/rm/m/n/12/4e $ * \C70/rm/m/n/12/6b e \C70/rm/m/n/12/9a §|\C70/rm/m/n/12/
+ff ^^Z| \OT1/cmr/m/n/12 prior\C70/rm/m/n/12/4e Œ \C70/rm/m/n/12/65 á \C70/rm/m/
+n/12/67 , \C70/rm/m/n/12/63 œ \C70/rm/m/n/12/8f  \C70/rm/m/n/12/75 ^^_ \C70/rm
+/m/n/12/62 ^^P\OT1/cmr/m/n/12 CLIP\C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/56 ˛ \C70/
+rm/m/n/12/50 œ \C70/rm/m/n/12/5d L \C70/rm/m/n/12/51 e|\C70/rm/m/n/12/ff ^^L| \
+C70/rm/m/n/12/62 i \C70/rm/m/n/12/65 c \C70/rm/m/n/12/6a ! \C70/rm/m/n/12/57 ã 
+\C70/rm/m/n/12/76 Ñ\OT1/cmr/m/n/12 decoder\C70/rm/m/n/12/52 ^^Y
+ []
+
+
+Overfull \hbox (1.32382pt too wide) in paragraph at lines 415--416
+[]\C70/rm/m/n/12/56 ˛[][]\OT1/cmr/m/n/12 3[][]\C70/rm/m/n/12/76 Ñ \C70/rm/m/n/1
+2/4e 
+ \C70/rm/m/n/12/53 J \C70/rm/m/n/12/66 /\OT1/cmr/m/n/12 CLIP|\C70/rm/m/n/12/ff 
+^^L| \C70/rm/m/n/12/4e  \C70/rm/m/n/12/53 J \C70/rm/m/n/12/66 /\OT1/cmr/m/n/12
+ DALL\TS1/cmr/m/n/12 ∑\OT1/cmr/m/n/12 E2|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/
+8b ≠ \C70/rm/m/n/12/7e √\OT1/cmr/m/n/12 prior\C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12
+/65 ˆ \C70/rm/m/n/12/50 ^^Y \C70/rm/m/n/12/75 (\OT1/cmr/m/n/12 CLIP img en-
+ []
+
+[15 <./pic/4.2_unCLIP.png (PNG copy)>]
+Overfull \hbox (9.42474pt too wide) in paragraph at lines 438--438
+[]\OT1/cmr/bx/n/14.4 2023\C70/rm/bx/n/14.4/5e t\OT1/cmr/bx/n/14.4 5\C70/rm/bx/n
+/14.4/67 ^^H \OT1/cmr/bx/n/14.4 Mind-Eye\C70/rm/bx/n/14.4/75 ( \C70/rm/bx/n/14.
+4/5b ˘ \C70/rm/bx/n/14.4/6b ‘ \C70/rm/bx/n/14.4/5b f \C70/rm/bx/n/14.4/4e ` \C7
+0/rm/bx/n/14.4/54 å \C70/rm/bx/n/14.4/62 i \C70/rm/bx/n/14.4/65 c \C70/rm/bx/n/
+14.4/51 H \C70/rm/bx/n/14.4/9a å \C70/rm/bx/n/14.4/67 e \C70/rm/bx/n/14.4/4e Œ\
+OT1/cmr/bx/n/14.4 fMRI\C70/rm/bx/n/14.4/4e -
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 438.
+
+[16]
+<pic/4.3_mindeye overrall.png, id=615, 416.8665pt x 272.655pt>
+File: pic/4.3_mindeye overrall.png Graphic file (type png)
+<use pic/4.3_mindeye overrall.png>
+Package pdftex.def Info: pic/4.3_mindeye overrall.png  used on input line 464.
+(pdftex.def)             Requested size: 370.49881pt x 242.33766pt.
+
+Overfull \hbox (79.88069pt too wide) in paragraph at lines 471--472
+\C70/rm/m/n/12/56 ˛ \C70/rm/m/n/12/50 œ \C70/rm/m/n/12/91 Õ \C70/rm/m/n/12/5e ˙
+ \C70/rm/m/n/12/54 å \C70/rm/m/n/12/68 ¿ \C70/rm/m/n/12/7d " \C70/rm/m/n/12/4e 
+˚ \C70/rm/m/n/12/52 °|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/5b ˘ \C70/rm/m/n/12
+/6b ‘ \C70/rm/m/n/12/5b f \C70/rm/m/n/12/4e `|\C70/rm/m/n/12/ff ^^Z| \OT1/cmr/m
+/n/12 CLIP\C70/rm/m/n/12/66 / \C70/rm/m/n/12/4e ^^@ \C70/rm/m/n/12/79 Õ \C70/rm
+/m/n/12/8d Ë \C70/rm/m/n/12/6a ! \C70/rm/m/n/12/60 ^^A \C70/rm/m/n/12/76 Ñ \C70
+/rm/m/n/12/5b ˘ \C70/rm/m/n/12/6b ‘ \C70/rm/m/n/12/5b f \C70/rm/m/n/12/4e ` \C7
+0/rm/m/n/12/65 π \C70/rm/m/n/12/6c ’|\C70/rm/m/n/12/ff ^^L| \OT1/cmr/m/n/12 Min
+dEye\C70/rm/m/n/12/5c ^^F\OT1/cmr/m/n/12 fMRI\C70/rm/m/n/12/4f \
+ []
+
+
+Overfull \hbox (16.24017pt too wide) in paragraph at lines 475--479
+\C70/rm/m/n/12/91 Õ \C70/rm/m/n/12/5e ˙|\C70/rm/m/n/12/ff ^^Z| \C70/rm/m/n/12/4
+e Œ\OT1/cmr/m/n/12 fMRI\C70/rm/m/n/12/4f S \C70/rm/m/n/12/7d   \C70/rm/m/n/12/9
+1 Õ \C70/rm/m/n/12/5e ˙ \C70/rm/m/n/12/51 ˙ \C70/rm/m/n/12/89 ∆ … \C70/rm/m/n/1
+2/56 ˛ \C70/rm/m/n/12/50 œ|\C70/rm/m/n/12/30 ^^B| \OT1/cmr/m/n/12 MindEye\C70/r
+m/m/n/12/76 Ñ \C70/rm/m/n/12/62 i \C70/rm/m/n/12/65 c \C70/rm/m/n/12/51 H \C70/
+rm/m/n/12/9a å \C70/rm/m/n/12/8f ì \C70/rm/m/n/12/51 ˙ \C70/rm/m/n/12/4e é\OT1/
+cmr/m/n/12 CLIP-fMRI\C70/rm/m/n/12/5d L
+ []
+
+
+Overfull \hbox (12.0494pt too wide) in paragraph at lines 475--479
+\C70/rm/m/n/12/51 e \C70/rm/m/n/12/66 / \C70/rm/m/n/12/5b ˘ \C70/rm/m/n/12/51 v
+ \C70/rm/m/n/12/76 Ñ|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/62 @ \C70/rm/m/n/12/
+4e Â \C70/rm/m/n/12/75 ( \C70/rm/m/n/12/4e é \C70/rm/m/n/12/91 Õ \C70/rm/m/n/12
+/5e ˙ \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/62 i \C70/rm/m/n/12/65 c \C70/rm/m/n/1
+2/6a ! \C70/rm/m/n/12/57 ã \C70/rm/m/n/12/53 Ô \C70/rm/m/n/12/4e Â \C70/rm/m/n/
+12/67 	 \C70/rm/m/n/12/59 ^^Z \C70/rm/m/n/12/79 Õ \C70/rm/m/n/12/90 	 \C70/rm/m
+/n/12/62 È|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/65 á \C70/rm/m/n/12/4e - \C70/
+rm/m/n/12/4f ^^? \C70/rm/m/n/12/75 ( \C70/rm/m/n/12/4e Ü\OT1/cmr/m/n/12 Versati
+le
+ []
+
+[17 <./pic/4.3_mindeye overrall.png>] [18]
+Overfull \hbox (2.90642pt too wide) in paragraph at lines 508--508
+[]\OT1/cmr/bx/n/14.4 2023\C70/rm/bx/n/14.4/5e t\OT1/cmr/bx/n/14.4 1\C70/rm/bx/n
+/14.4/67 ^^H \OT1/cmr/bx/n/14.4 Brain-Diffuser\C70/rm/bx/n/14.4/52 ) \C70/rm/bx
+/n/14.4/75 ( \C70/rm/bx/n/14.4/6f \ \C70/rm/bx/n/14.4/57 ( \C70/rm/bx/n/14.4/62
+ i \C70/rm/bx/n/14.4/65 c \C70/rm/bx/n/14.4/4e Œ\OT1/cmr/bx/n/14.4 fMRI\C70/rm/
+bx/n/14.4/91 Õ \C70/rm/bx/n/14.4/5e ˙ \C70/rm/bx/n/14.4/81 Í
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 508.
+
+
+Overfull \hbox (17.60468pt too wide) in paragraph at lines 517--518
+[]\C70/rm/m/n/12/8b Â \C70/rm/m/n/12/65 á \C70/rm/m/n/12/7a ‡ \C70/rm/m/n/12/57
+ (\OT1/cmr/m/n/12 2023CVPR\C70/rm/m/n/12/76 Ñ\OT1/cmr/m/n/12 Takagi\C70/rm/m/n/
+12/54 å\OT1/cmr/m/n/12 Nishimoto[[]]\C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/8b ∫ \C7
+0/rm/m/n/12/65 á \C70/rm/m/n/12/4e K \C70/rm/m/n/12/54 ^^N|\C70/rm/m/n/12/ff ^^
+L| \C70/rm/m/n/12/57 (\OT1/cmr/m/n/12 MindEye[[]]\C70/rm/m/n/12/5d Â
+ []
+
+
+Overfull \hbox (7.20703pt too wide) in paragraph at lines 533--534
+\OT1/cmr/m/n/12 Auto En-coder)|\C70/rm/m/n/12/ff ^^[| \C70/rm/m/n/12/7b , \C70/
+rm/m/n/12/4e å * \C70/rm/m/n/12/96 6 \C70/rm/m/n/12/6b µ\OT1/cmr/m/n/12 (\C70/r
+m/m/n/12/67 ^^@ \C70/rm/m/n/12/7e » \C70/rm/m/n/12/91 Õ \C70/rm/m/n/12/5e ˙\OT1
+/cmr/m/n/12 )\C70/rm/m/n/12/8b ≠ \C70/rm/m/n/12/7e √ \C70/rm/m/n/12/4e Ü $ * \C
+70/rm/m/n/12/56 ﬁ \C70/rm/m/n/12/5f R \C70/rm/m/n/12/6a ! \C70/rm/m/n/12/57 ã|\
+C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/4e ^^@ * Œ\OT1/cmr/m/n/12 fMRI\C70/rm/m/n/
+12/66  
+ []
+
+
+Overfull \hbox (20.16046pt too wide) in paragraph at lines 535--536
+\C70/rm/m/n/12/6c ’ \C70/rm/m/n/12/75 ^^_ \C70/rm/m/n/12/62 ^^P \C70/rm/m/n/12/
+76 Ñ \C70/rm/m/n/12/59 ^^M \C70/rm/m/n/12/67 B \C70/rm/m/n/12/81 Í \C70/rm/m/n/
+12/71 6 \C70/rm/m/n/12/56 ˛ \C70/rm/m/n/12/50 œ|\C70/rm/m/n/12/30 ^^B| \C70/rm/
+m/n/12/59 Ç \C70/rm/m/n/12/4e  \C70/rm/m/n/12/56 ˛|\C70/rm/m/n/12/ff ^^L| \C70
+/rm/m/n/12/8b Â \C70/rm/m/n/12/8f « \C70/rm/m/n/12/7a  \C70/rm/m/n/12/76 Ñ \C7
+0/rm/m/n/12/8b ≠ \C70/rm/m/n/12/7e √ \C70/rm/m/n/12/96 6 \C70/rm/m/n/12/6b µ|\C
+70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/6b œ \C70/rm/m/n/12/5f   \C70/rm/m/n/12/56 
+˛ \C70/rm/m/n/12/50 œ \C70/rm/m/n/12/7e œ \C70/rm/m/n/12/75 1\OT1/cmr/m/n/12 VD
+VAE\C70/rm/m/n/12/7f ^^V
+ []
+
+[19]
+<pic/4.4_first stage.png, id=646, 493.845pt x 259.7203pt>
+File: pic/4.4_first stage.png Graphic file (type png)
+<use pic/4.4_first stage.png>
+Package pdftex.def Info: pic/4.4_first stage.png  used on input line 539.
+(pdftex.def)             Requested size: 370.49881pt x 194.84918pt.
+
+Overfull \hbox (4.17366pt too wide) in paragraph at lines 544--545
+[]\C70/rm/m/n/12/67 ^^@ \C70/rm/m/n/12/7e » \C70/rm/m/n/12/91 Õ \C70/rm/m/n/12/
+5e ˙\OT1/cmr/m/n/12 /\C70/rm/m/n/12/7b , \C70/rm/m/n/12/4e å \C70/rm/m/n/12/96 
+6 \C70/rm/m/n/12/6b µ|\C70/rm/m/n/12/ff ^^Z| \OT1/cmr/m/n/12 Versatile Dif-fu-s
+ion\C70/rm/m/n/12/4e _ \C70/rm/m/n/12/66 / \C70/rm/m/n/12/4e ^^@ \C70/rm/m/n/12
+/79 Õ\OT1/cmr/m/n/12 latent dif-fu-sion model|\C70/rm/m/n/12/ff ^^L|
+ []
+
+
+Overfull \hbox (49.41406pt too wide) in paragraph at lines 544--545
+\OT1/cmr/m/n/12 fMRI\C70/rm/m/n/12/52 0\OT1/cmr/m/n/12 CLIP-Vision\C70/rm/m/n/1
+2/72 y \C70/rm/m/n/12/5f Å \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/6a ! \C70/rm/m/n/
+12/57 ã|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/67 	\OT1/cmr/m/n/12 257\C70/rm/m/
+n/12/4e * \C70/rm/m/n/12/95 ^^? \C70/rm/m/n/12/5e ¶ \C70/rm/m/n/12/4e :\OT1/cmr
+/m/n/12 768\C70/rm/m/n/12/76 Ñ\OT1/cmr/m/n/12 embedding|\C70/rm/m/n/12/ff ^^L| 
+\C70/rm/m/n/12/4e ^^@ *\OT1/cmr/m/n/12 embedding\C70/rm/m/n/12/88 h
+ []
+
+
+Overfull \hbox (25.20264pt too wide) in paragraph at lines 544--545
+\C70/rm/m/n/12/79 : \C70/rm/m/n/12/8b Â \C70/rm/m/n/12/56 ˛ \C70/rm/m/n/12/50 œ
+ \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/7c { \C70/rm/m/n/12/52 + \C70/rm/m/n/12/76 
+¯ \C70/rm/m/n/12/51 s \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/4f · \C70/rm/m/n/12/60
+ o|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/51 v \C70/rm/m/n/12/4f Y\OT1/cmr/m/n/1
+2 256\C70/rm/m/n/12/4e *\OT1/cmr/m/n/12 embedding\C70/rm/m/n/12/88 h \C70/rm/m/
+n/12/5f Å \C70/rm/m/n/12/4e Œ \C70/rm/m/n/12/56 ˛ \C70/rm/m/n/12/50 œ \C70/rm/m
+/n/12/4e - \C70/rm/m/n/12/62 * \C70/rm/m/n/12/53 ÷ \C70/rm/m/n/12/76 Ñ\OT1/cmr/
+m/n/12 patches|\C70/rm/m/n/12/ff ^^[|
+ []
+
+
+Overfull \hbox (20.14424pt too wide) in paragraph at lines 544--545
+\OT1/cmr/m/n/12 fMRI\C70/rm/m/n/12/52 0\OT1/cmr/m/n/12 CLIP-Text\C70/rm/m/n/12/
+72 y \C70/rm/m/n/12/5f Å \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/6a ! \C70/rm/m/n/12
+/57 ã|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/4e Œ \C70/rm/m/n/12/8b Â \C70/rm/m/
+n/12/56 ˛ \C70/rm/m/n/12/50 œ \C70/rm/m/n/12/57 (\OT1/cmr/m/n/12 COCO\C70/rm/m/
+n/12/76 Ñ \C70/rm/m/n/12/65 á \C70/rm/m/n/12/67 , \C70/rm/m/n/12/63 œ \C70/rm/m
+/n/12/8f  \C70/rm/m/n/12/79 Õ \C70/rm/m/n/12/63 – \C70/rm/m/n/12/53 ÷\OT1/cmr/
+m/n/12 77\C70/rm/m/n/12/4e *\OT1/cmr/m/n/12 768\C70/rm/m/n/12/7e Ù
+ []
+
+
+Overfull \hbox (21.6473pt too wide) in paragraph at lines 544--545
+\OT1/cmr/m/n/12 image pipeline|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/99 ñ \C70/
+rm/m/n/12/51 H \C70/rm/m/n/12/5c ^^F \C70/rm/m/n/12/5d Ú \C70/rm/m/n/12/7e œ \C
+70/rm/m/n/12/75 (\OT1/cmr/m/n/12 VDVAE\C70/rm/m/n/12/91 Õ \C70/rm/m/n/12/5e ˙ \
+C70/rm/m/n/12/8f « \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/56 ˛ \C70/rm/m/n/12/50 œ 
+\C70/rm/m/n/12/4e Œ\OT1/cmr/m/n/12 64\TS1/cmr/m/n/12 ÷\OT1/cmr/m/n/12 64\C70/rm
+/m/n/12/4e 
+ \C70/rm/m/n/12/91 « \C70/rm/m/n/12/68 7 \C70/rm/m/n/12/52 0\OT1/cmr/m/n/12 512
+\TS1/cmr/m/n/12 ÷\OT1/cmr/m/n/12 512|\C70/rm/m/n/12/ff ^^L|
+ []
+
+
+Overfull \hbox (11.20636pt too wide) in paragraph at lines 544--545
+\C70/rm/m/n/12/71 6 \C70/rm/m/n/12/54 ^^N \C70/rm/m/n/12/66 / \C70/rm/m/n/12/53
+ ª \C70/rm/m/n/12/56 j \C70/rm/m/n/12/8f « \C70/rm/m/n/12/7a |\C70/rm/m/n/12/f
+f ^^L| \C70/rm/m/n/12/53 ª \C70/rm/m/n/12/56 j \C70/rm/m/n/12/8f « \C70/rm/m/n/
+12/7a  \C70/rm/m/n/12/4e - \C70/rm/m/n/12/75 ( \C70/rm/m/n/12/76 Ñ \C70/rm/m/n
+/12/66 /\OT1/cmr/m/n/12 Versatile Dif-fu-sion\C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12
+/53 Ã \C70/rm/m/n/12/5f ^^U \C70/rm/m/n/12/5b ¸ \C70/rm/m/n/12/62 i \C70/rm/m/n
+/12/65 c\OT1/cmr/m/n/12 pipeline|\C70/rm/m/n/12/ff ^^L|
+ []
+
+<pic/4.4_second stage.png, id=648, 489.32813pt x 388.45125pt>
+File: pic/4.4_second stage.png Graphic file (type png)
+<use pic/4.4_second stage.png>
+Package pdftex.def Info: pic/4.4_second stage.png  used on input line 548.
+(pdftex.def)             Requested size: 312.00119pt x 247.68329pt.
+[20 <./pic/4.4_first stage.png (PNG copy)>]
+Overfull \hbox (89.61722pt too wide) in paragraph at lines 555--556
+\OT1/cmr/m/n/12 Reader(Lin, NeurIPS, 2022)|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/1
+2/75 (\OT1/cmr/m/n/12 StyleGAN\C70/rm/m/n/12/8f € \C70/rm/m/n/12/88 L \C70/rm/m
+/n/12/56 ˛ \C70/rm/m/n/12/50 œ \C70/rm/m/n/12/75 ^^_ \C70/rm/m/n/12/62 ^^P|\C70
+/rm/m/n/12/ff ^^[| \OT1/cmr/m/n/12 2023CVPR\C70/rm/m/n/12/76 Ñ\OT1/cmr/m/n/12 T
+akagi\C70/rm/m/n/12/54 å\OT1/cmr/m/n/12 Nishimoto\C70/rm/m/n/12/4f ^^?
+ []
+
+
+Overfull \hbox (68.84468pt too wide) in paragraph at lines 555--556
+\C70/rm/m/n/12/75 (\OT1/cmr/m/n/12 NSD\C70/rm/m/n/12/65 p \C70/rm/m/n/12/63 n \
+C70/rm/m/n/12/96 ∆ \C70/rm/m/n/12/8f € \C70/rm/m/n/12/88 L \C70/rm/m/n/12/91 Õ 
+\C70/rm/m/n/12/5e ˙ \C70/rm/m/n/12/78 ^^T \C70/rm/m/n/12/7a v|\C70/rm/m/n/12/ff
+ ^^L| \C70/rm/m/n/12/7b , \C70/rm/m/n/12/4e ^^@ * \C70/rm/m/n/12/4f ^^? \C70/rm
+/m/n/12/75 (\OT1/cmr/m/n/12 latent dif-fu-sion model\C70/rm/m/n/12/76 Ñ|\C70/rm
+/m/n/12/ff ^^[| \OT1/cmr/m/n/12 2023\C70/rm/m/n/12/5e t\OT1/cmr/m/n/12 MIDL(Med
+ical
+ []
+
+
+Overfull \hbox (27.48581pt too wide) in paragraph at lines 557--558
+[]\OT1/cmr/m/n/12 fMRI\C70/rm/m/n/12/91 Õ \C70/rm/m/n/12/5e ˙ \C70/rm/m/n/12/76
+ Ñ \C70/rm/m/n/12/5b ö \C70/rm/m/n/12/91 œ \C70/rm/m/n/12/63 ^^G \C70/rm/m/n/12
+/68 ^^G|\C70/rm/m/n/12/ff ^^Z| \C70/rm/m/n/12/4f N \C70/rm/m/n/12/96 6 \C70/rm/
+m/n/12/67 	\OT1/cmr/m/n/12 PixCorr|\C70/rm/m/n/12/30 ^^A| \OT1/cmr/m/n/12 SSIM|
+\C70/rm/m/n/12/30 ^^A| \OT1/cmr/m/n/12 AlexNet|\C70/rm/m/n/12/ff ^^[| \C70/rm/m
+/n/12/9a ÿ \C70/rm/m/n/12/96 6 \C70/rm/m/n/12/67 	\OT1/cmr/m/n/12 Inception|\C7
+0/rm/m/n/12/30 ^^A|
+ []
+
+
+Overfull \hbox (20.75238pt too wide) in paragraph at lines 559--560
+\C70/rm/m/n/12/57 ﬂ\OT1/cmr/m/n/12 (V1 V4\C70/rm/m/n/12/53 : \C70/rm/m/n/12/57 
+ﬂ\OT1/cmr/m/n/12 )\C70/rm/m/n/12/51 s \C70/rm/m/n/12/80 T \C70/rm/m/n/12/7d ' \
+C70/rm/m/n/12/5b ∆|\C70/rm/m/n/12/ff ^^L| \OT1/cmr/m/n/12 CLIP\C70/rm/m/n/12/72
+ y \C70/rm/m/n/12/5f Å \C70/rm/m/n/12/52 ^^Y \C70/rm/m/n/12/51 s \C70/rm/m/n/12
+/80 T \C70/rm/m/n/12/52 0 \C70/rm/m/n/12/72 y \C70/rm/m/n/12/5b ö \C70/rm/m/n/1
+2/7c { \C70/rm/m/n/12/52 + \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/9a ÿ \C70/rm/m/n/
+12/7e ß \C70/rm/m/n/12/59 ' \C70/rm/m/n/12/81 ^^Q \C70/rm/m/n/12/53 : \C70/rm/m
+/n/12/57 ﬂ\OT1/cmr/m/n/12 (Words|\C70/rm/m/n/12/30 ^^A|
+ []
+
+[21 <./pic/4.4_second stage.png (PNG copy)>]
+Overfull \hbox (6.89973pt too wide) in paragraph at lines 585--585
+[]\OT1/cmr/bx/n/14.4 2022\C70/rm/bx/n/14.4/5e t\OT1/cmr/bx/n/14.4 4\C70/rm/bx/n
+/14.4/67 ^^H \C70/rm/bx/n/14.4/57 ˙ \C70/rm/bx/n/14.4/4e é \C70/rm/bx/n/14.4/97
+ ^ \C70/rm/bx/n/14.4/4f µ \C70/rm/bx/n/14.4/51 e \C70/rm/bx/n/14.4/4e ∫ \C70/rm
+/bx/n/14.4/81 ^^Q \C70/rm/bx/n/14.4/8b ∞ \C70/rm/bx/n/14.4/5f U \C70/rm/bx/n/14
+.4/76 Ñ \C70/rm/bx/n/14.4/8f ﬁ \C70/rm/bx/n/14.4/7e Ì \C70/rm/bx/n/14.4/8b Ì \C
+70/rm/bx/n/14.4/8a ^^@ \C70/rm/bx/n/14.4/76 Ñ \C70/rm/bx/n/14.4/8b Ì \C70/rm/bx
+/n/14.4/4e I \C70/rm/bx/n/14.4/91 Õ \C70/rm/bx/n/14.4/5e ˙\OT1/cmr/bx/n/14.4 [[
+]] 
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 585.
+
+[22]
+Overfull \hbox (32.8327pt too wide) in paragraph at lines 599--600
+[]\C70/rm/m/n/12/96 d \C70/rm/m/n/12/4e Ü \C70/rm/m/n/12/94 à \C70/rm/m/n/12/5b
+ ˘ \C70/rm/m/n/12/59 ' \C70/rm/m/n/12/81 ^^Q \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12
+/7f ^^V \C70/rm/m/n/12/78 ^^A \C70/rm/m/n/12/89 „ \C70/rm/m/n/12/78 ^^A \C70/rm
+/m/n/12/59 ^^V|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/8f ÿ \C70/rm/m/n/12/8b ≠ \
+C70/rm/m/n/12/7e √ \C70/rm/m/n/12/4e Ü ^^@ * \C70/rm/m/n/12/5e è \C70/rm/m/n/12
+/52 ^^W \C70/rm/m/n/12/98 Ñ \C70/rm/m/n/12/6d K \C70/rm/m/n/12/76 Ñ\OT1/cmr/m/n
+/12 GPT\C70/rm/m/n/12/6a ! \C70/rm/m/n/12/57 ã|\C70/rm/m/n/12/ff ^^L| \C70/rm/m
+/n/12/8b Â\OT1/cmr/m/n/12 GPT\C70/rm/m/n/12/6a !
+ []
+
+<pic/4.5_step a2c.png, id=674, 749.04843pt x 496.85625pt>
+File: pic/4.5_step a2c.png Graphic file (type png)
+<use pic/4.5_step a2c.png>
+Package pdftex.def Info: pic/4.5_step a2c.png  used on input line 611.
+(pdftex.def)             Requested size: 370.49881pt x 245.75885pt.
+
+Overfull \hbox (17.28197pt too wide) in paragraph at lines 618--619
+[]\C70/rm/m/n/12/5c ^^F \C70/rm/m/n/12/8b Ì \C70/rm/m/n/12/8a ^^@ \C70/rm/m/n/1
+2/59 ^^D \C70/rm/m/n/12/74 ^^F \C70/rm/m/n/12/8f « \C70/rm/m/n/12/7a  \C70/rm/
+m/n/12/4e - \C70/rm/m/n/12/6d ; \C70/rm/m/n/12/8d √ \C70/rm/m/n/12/76 Ñ \C70/rm
+/m/n/12/81 ^^Q \C70/rm/m/n/12/76 Æ \C70/rm/m/n/12/5c B \C70/rm/m/n/12/52 ^^F \C
+70/rm/m/n/12/62 ^^P \C70/rm/m/n/12/4e 	 * \C70/rm/m/n/12/53 : \C70/rm/m/n/12/57
+ ﬂ|\C70/rm/m/n/12/ff ^^Z| \OT1/cmr/m/n/12 speech net-work|\C70/rm/m/n/12/30 ^^A
+| \OT1/cmr/m/n/12 parietal-
+ []
+
+[23]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 642.
+
+[24 <./pic/4.5_step a2c.png (PNG copy)>]
+Overfull \hbox (49.56868pt too wide) in paragraph at lines 656--657
+[]\C70/rm/m/n/12/57 ˙ \C70/rm/m/n/12/4e é \C70/rm/m/n/12/54 h \C70/rm/m/n/12/67
+ ^^_ \C70/rm/m/n/12/60 ' \C70/rm/m/n/12/5e ˆ \C70/rm/m/n/12/8f ﬂ \C70/rm/m/n/12
+/53 Õ \C70/rm/m/n/12/5e î\OT1/cmr/m/n/12 (periodic de-layed re-sponse)\C70/rm/m
+/n/12/54 å \C70/rm/m/n/12/6d w \C70/rm/m/n/12/9a l \C70/rm/m/n/12/4f S \C70/rm/
+m/n/12/5c > \C70/rm/m/n/12/90 Ë \C70/rm/m/n/12/6d ; \C70/rm/m/n/12/52 ®\OT1/cmr
+/m/n/12 (hippocampus
+ []
+
+[25]
+<pic/4.6_memory encoding model.png, id=695, 468.24937pt x 249.93375pt>
+File: pic/4.6_memory encoding model.png Graphic file (type png)
+<use pic/4.6_memory encoding model.png>
+Package pdftex.def Info: pic/4.6_memory encoding model.png  used on input line 
+674.
+(pdftex.def)             Requested size: 370.49881pt x 197.76965pt.
+
+Overfull \hbox (65.5818pt too wide) in paragraph at lines 681--682
+[]\OT1/cmr/m/n/12 RetinaMapper\C70/rm/m/n/12/5c ^^F \C70/rm/m/n/12/4f S \C70/rm
+/m/n/12/7d   \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/4e 	 \C70/rm/m/n/12/7e Ù \C70/r
+m/m/n/12/7a z \C70/rm/m/n/12/95 Ù \C70/rm/m/n/12/57 P \C70/rm/m/n/12/68 ^^G \C7
+0/rm/m/n/12/8f l \C70/rm/m/n/12/63 b \C70/rm/m/n/12/4e : \C70/rm/m/n/12/56 ˛ \C
+70/rm/m/n/12/50 œ \C70/rm/m/n/12/7a z \C70/rm/m/n/12/95 Ù \C70/rm/m/n/12/76 Ñ \
+C70/rm/m/n/12/4e å \C70/rm/m/n/12/7e Ù \C70/rm/m/n/12/57 P \C70/rm/m/n/12/68 ^^
+G|\C70/rm/m/n/12/30 ^^B| \OT1/cmr/m/n/12 LayerSelector\C70/rm/m/n/12/5c ^^F
+ []
+
+
+Overfull \hbox (0.1144pt too wide) in paragraph at lines 697--698
+[]\C70/rm/m/n/12/8b Â \C70/rm/m/n/12/5d Â \C70/rm/m/n/12/4f \ \C70/rm/m/n/12/7e
+ œ \C70/rm/m/n/12/8f « \C70/rm/m/n/12/98 Ñ \C70/rm/m/n/12/5b û \C70/rm/m/n/12/9
+a å \C70/rm/m/n/12/53 — \C70/rm/m/n/12/73 ∞ \C70/rm/m/n/12/4e Ü\OT1/cmr/m/n/12 
+NSD\C70/rm/m/n/12/65 p \C70/rm/m/n/12/63 n \C70/rm/m/n/12/96 ∆ \C70/rm/m/n/12/4
+e 
+ \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/54 h \C70/rm/m/n/12/67 ^^_ \C70/rm/m/n/12/6
+0 ' \C70/rm/m/n/12/5e ˆ \C70/rm/m/n/12/8f ﬂ \C70/rm/m/n/12/54 Õ \C70/rm/m/n/12/
+5e î\OT1/cmr/m/n/12 (periodic de-
+ []
+
+[26 <./pic/4.6_memory encoding model.png (PNG copy)>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 708.
+
+
+Overfull \hbox (15.57054pt too wide) in paragraph at lines 721--722
+[]\C70/rm/m/n/12/4f ^^? \C70/rm/m/n/12/75 (\OT1/cmr/m/n/12 Transformer\C70/rm/m
+/n/12/76 Ñ\OT1/cmr/m/n/12 encode-decode\C70/rm/m/n/12/65 π \C70/rm/m/n/12/6c ’ 
+\C70/rm/m/n/12/67 e \C70/rm/m/n/12/5b å \C70/rm/m/n/12/62 ^^P \C70/rm/m/n/12/4e
+ Œ \C70/rm/m/n/12/81 Í \C70/rm/m/n/12/71 6 \C70/rm/m/n/12/57 : \C70/rm/m/n/12/6
+6 o \C70/rm/m/n/12/56 ˛ \C70/rm/m/n/12/50 œ \C70/rm/m/n/12/98 Ñ \C70/rm/m/n/12/
+6d K\OT1/cmr/m/n/12 fMRI\C70/rm/m/n/12/76 Ñ
+ []
+
+
+Overfull \hbox (8.4075pt too wide) in paragraph at lines 727--728
+\OT1/cmr/m/n/12 form-ers)|\C70/rm/m/n/12/30 ^^A| \C70/rm/m/n/12/7f ^^V \C70/rm/
+m/n/12/78 ^^A \C70/rm/m/n/12/56 h\OT1/cmr/m/n/12 -\C70/rm/m/n/12/89 „ \C70/rm/m
+/n/12/78 ^^A \C70/rm/m/n/12/56 h \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/89 ∆ … \C70
+/rm/m/n/12/81 Í \C70/rm/m/n/12/6c Ë \C70/rm/m/n/12/61 ^^O \C70/rm/m/n/12/52 õ \
+C70/rm/m/n/12/6a ! \C70/rm/m/n/12/57 ã\OT1/cmr/m/n/12 (Encoder-decoder Vi-sion 
+Trans-
+ []
+
+
+Overfull \hbox (12.70934pt too wide) in paragraph at lines 731--732
+[]\C70/rm/m/n/12/4f ^^? \C70/rm/m/n/12/75 (\OT1/cmr/m/n/12 Transformer\C70/rm/m
+/n/12/76 Ñ\OT1/cmr/m/n/12 encoder-decoder\C70/rm/m/n/12/6a ! \C70/rm/m/n/12/57 
+ã \C70/rm/m/n/12/67 e \C70/rm/m/n/12/5b f \C70/rm/m/n/12/4e ` Œ \C70/rm/m/n/12/
+81 Í \C70/rm/m/n/12/71 6 \C70/rm/m/n/12/57 : \C70/rm/m/n/12/66 o \C70/rm/m/n/12
+/56 ˛ \C70/rm/m/n/12/50 œ \C70/rm/m/n/12/52 0\OT1/cmr/m/n/12 fMRI\C70/rm/m/n/12
+/76 Ñ
+ []
+
+<pic/4.7_model architecture.png, id=705, 645.91313pt x 372.64218pt>
+File: pic/4.7_model architecture.png Graphic file (type png)
+<use pic/4.7_model architecture.png>
+Package pdftex.def Info: pic/4.7_model architecture.png  used on input line 735
+.
+(pdftex.def)             Requested size: 370.49881pt x 213.75015pt.
+[27]
+Overfull \hbox (9.31696pt too wide) in paragraph at lines 748--749
+[]\C70/rm/m/n/12/5f ^^@ \C70/rm/m/n/12/6e ê \C70/rm/m/n/12/4e „ \C70/rm/m/n/12/
+78 ^^A|\C70/rm/m/n/12/ff ^^Z| \OT1/cmr/m/n/12 https://github.com/Hosseinadeli/a
+lgonauts2023[]transformers 
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 762.
+
+
+Overfull \hbox (15.80066pt too wide) in paragraph at lines 763--764
+\C70/rm/m/n/12/68 ^^G \C70/rm/m/n/12/98 ò|\C70/rm/m/n/12/ff ^^Z| \OT1/cmr/m/n/1
+2 THE ALGO-NAUTS PROJECT 2023 CHAL-LENGE: UARK-UALBANY
+ []
+
+[28 <./pic/4.7_model architecture.png (PNG copy)>]
+<pic/4.8_pretraining stage.png, id=718, 807.015pt x 222.07968pt>
+File: pic/4.8_pretraining stage.png Graphic file (type png)
+<use pic/4.8_pretraining stage.png>
+Package pdftex.def Info: pic/4.8_pretraining stage.png  used on input line 786.
+
+(pdftex.def)             Requested size: 370.49881pt x 101.95456pt.
+<pic/4.8_fine-tuning stage.png, id=720, 846.16125pt x 294.34969pt>
+File: pic/4.8_fine-tuning stage.png Graphic file (type png)
+<use pic/4.8_fine-tuning stage.png>
+Package pdftex.def Info: pic/4.8_fine-tuning stage.png  used on input line 794.
+
+(pdftex.def)             Requested size: 370.49881pt x 128.88097pt.
+ [29 <./pic/4.8_pretraining stage.png (PNG copy)>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 821.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 821.
+
+[30 <./pic/4.8_fine-tuning stage.png (PNG copy)>]
+Overfull \hbox (32.07202pt too wide) in paragraph at lines 841--842
+[]\C70/rm/m/n/12/5f ^^@ \C70/rm/m/n/12/52 ^^[ \C70/rm/m/n/12/4e Ü $ \C70/rm/m/n
+/12/96 6 \C70/rm/m/n/12/6b µ \C70/rm/m/n/12/91 Õ \C70/rm/m/n/12/5e ˙ \C70/rm/m/
+n/12/76 Ñ \C70/rm/m/n/12/65 π \C70/rm/m/n/12/6c ’|\C70/rm/m/n/12/ff ^^Z| \C70/r
+m/m/n/12/7b , \C70/rm/m/n/12/4e ^^@ \C70/rm/m/n/12/96 6 \C70/rm/m/n/12/6b µ \C7
+0/rm/m/n/12/8b ≠ \C70/rm/m/n/12/7e √ \C70/rm/m/n/12/4e Ü $ * \C70/rm/m/n/12/66 
+  \C70/rm/m/n/12/5c ^^D \C70/rm/m/n/12/6a ! \C70/rm/m/n/12/57 ã$\OML/cmm/m/it/1
+2 f[]$\C70/rm/m/n/12/54 å$\OML/cmm/m/it/12 f[]$\C70/rm/m/n/12/5c ^^F\OT1/cmr/m/
+n/12 fMRI\C70/rm/m/n/12/7f ^^V
+ []
+
+<pic/4.9_pipeline.jpg, id=734, 409.66129pt x 146.31229pt>
+File: pic/4.9_pipeline.jpg Graphic file (type jpg)
+<use pic/4.9_pipeline.jpg>
+Package pdftex.def Info: pic/4.9_pipeline.jpg  used on input line 849.
+(pdftex.def)             Requested size: 370.49881pt x 132.32503pt.
+[31 <./pic/4.9_pipeline.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 881.
+
+[32]
+Overfull \hbox (13.03952pt too wide) in paragraph at lines 890--891
+\C70/rm/m/n/12/6a ! \C70/rm/m/n/12/57 ã|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/5
+1 v \C70/rm/m/n/12/67 a \C70/rm/m/n/12/4e ˆ \C70/rm/m/n/12/67 e \C70/rm/m/n/12/
+81 Í \C70/rm/m/n/12/4e Œ \C70/rm/m/n/12/75 ( \C70/rm/m/n/12/62 7 \C70/rm/m/n/12
+/8f ì \C70/rm/m/n/12/51 e \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/81 Í \C70/rm/m/n/1
+2/71 6 \C70/rm/m/n/12/8b Ì \C70/rm/m/n/12/8a ^^@ \C70/rm/m/n/12/4e - \C70/rm/m/
+n/12/63 – \C70/rm/m/n/12/53 ÷ \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/8b Ì \C70/rm/m
+/n/12/4e I \C70/rm/m/n/12/4f · \C70/rm/m/n/12/60 o|\C70/rm/m/n/12/30 ^^B| \C70/
+rm/m/n/12/80 ^^L\OT1/cmr/m/n/12 ControlNet\C70/rm/m/n/12/62 @
+ []
+
+
+Overfull \hbox (14.7892pt too wide) in paragraph at lines 890--891
+\OT1/cmr/m/n/12 edges)|\C70/rm/m/n/12/30 ^^A| \C70/rm/m/n/12/97 ^^M \C70/rm/m/n
+/12/59 + \C70/rm/m/n/12/7e ø \C70/rm/m/n/12/67 a\OT1/cmr/m/n/12 (Hough lines)|\
+C70/rm/m/n/12/30 ^^A| \C70/rm/m/n/12/75 ( \C70/rm/m/n/12/62 7 \C70/rm/m/n/12/6d
+ Ç \C70/rm/m/n/12/9e &\OT1/cmr/m/n/12 (user scrib-bles)|\C70/rm/m/n/12/30 ^^A| 
+\C70/rm/m/n/12/4e ∫ \C70/rm/m/n/12/4f S \C70/rm/m/n/12/51 s \C70/rm/m/n/12/95 .
+ \C70/rm/m/n/12/70 π\OT1/cmr/m/n/12 (human
+ []
+
+
+Overfull \hbox (36.1706pt too wide) in paragraph at lines 904--905
+\C70/rm/m/n/12/52 ü \C70/rm/m/n/12/80 ˝ \C70/rm/m/n/12/57 W|\C70/rm/m/n/12/ff ^
+^L| \C70/rm/m/n/12/6b ‘ \C70/rm/m/n/12/59 Ç \C70/rm/m/n/12/6b ã \C70/rm/m/n/12/
+5d Ó \C70/rm/m/n/12/57 W|\C70/rm/m/n/12/30 ^^A| \C70/rm/m/n/12/53 w \C70/rm/m/n
+/12/79 Ô \C70/rm/m/n/12/57 W|\C70/rm/m/n/12/30 ^^A| \C70/rm/m/n/12/59 ^^Z 4 \C7
+0/rm/m/n/12/6c Ë \C70/rm/m/n/12/61 ^^O \C70/rm/m/n/12/52 õ \C70/rm/m/n/12/57 W|
+\C70/rm/m/n/12/30 ^^A| \OT1/cmr/m/n/12 Transformer\C70/rm/m/n/12/57 W \C70/rm/m
+/n/12/7b I|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/5c ^^F\OT1/cmr/m/n/12 ControlN
+et\C70/rm/m/n/12/6d ˚
+ []
+
+
+Overfull \hbox (20.21518pt too wide) in paragraph at lines 904--905
+\C70/rm/m/n/12/57 (\OT1/cmr/m/n/12 Stable Dif-fu-sion\C70/rm/m/n/12/4e -|\C70/r
+m/m/n/12/ff ^^L| \C70/rm/m/n/12/88 ´ \C70/rm/m/n/12/95 ^^A \C70/rm/m/n/12/5b ö 
+\C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/53 ü \C70/rm/m/n/12/59 À \C70/rm/m/n/12/53 ¬
+ \C70/rm/m/n/12/65 p \C70/rm/m/n/12/96 ∆$\OT1/cmr/m/n/12 ^^B$\C70/rm/m/n/12/5c 
+1 \C70/rm/m/n/12/66 / \C70/rm/m/n/12/4e ^^@ * \C70/rm/m/n/12/4f › \C70/rm/m/n/1
+2/75 Y \C70/rm/m/n/12/4e Ü \C70/rm/m/n/12/51 ‡ \C70/rm/m/n/12/53 A \C70/rm/m/n/
+12/4e ø\OT1/cmr/m/n/12 (billions)\C70/rm/m/n/12/5f  
+ []
+
+
+Overfull \hbox (23.84947pt too wide) in paragraph at lines 906--907
+\C70/rm/m/n/12/4e * \C70/rm/m/n/12/53 ¬ \C70/rm/m/n/12/65 p \C70/rm/m/n/12/96 ∆
+$\OT1/cmr/m/n/12 ^^B[]$\C70/rm/m/n/12/54 å$\OT1/cmr/m/n/12 ^^B[]$|\C70/rm/m/n/1
+2/ff ^^L| \C70/rm/m/n/12/67 ^^@ \C70/rm/m/n/12/7e » \C70/rm/m/n/12/76 Ñ \C70/rm
+/m/n/12/8f ì \C70/rm/m/n/12/51 ˙ \C70/rm/m/n/12/4e :|\C70/rm/m/n/12/ff ^^Z| $\O
+ML/cmm/m/it/12 y[] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 F\OT1/cmr/m/n/12 (\OML/cm
+m/m/it/12 x\OT1/cmr/m/n/12 ; ^^B) + \OMS/cmsy/m/n/12 Z\OT1/cmr/m/n/12 (\OMS/cms
+y/m/n/12 F\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x \OT1/cmr/m/n/12 + \OMS/cmsy/m/n/1
+2 Z\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 c\OT1/cmr/m/n/12 ; ^^B[]); ^^B[]); ^^B[])$
+|\C70/rm/m/n/12/30 ^^B|
+ []
+
+[33]
+<pic/4.10_ControlNet.png, id=764, 347.2975pt x 175.15437pt>
+File: pic/4.10_ControlNet.png Graphic file (type png)
+<use pic/4.10_ControlNet.png>
+Package pdftex.def Info: pic/4.10_ControlNet.png  used on input line 910.
+(pdftex.def)             Requested size: 370.49881pt x 186.86276pt.
+
+Overfull \hbox (36.95996pt too wide) in paragraph at lines 917--918
+\C70/rm/m/n/12/89 …\OT1/cmr/m/n/12 Transformer(Vision, ViT)|\C70/rm/m/n/12/30 ^
+^B| \C70/rm/m/n/12/6b œ \C70/rm/m/n/12/4e *\OT1/cmr/m/n/12 ViT\C70/rm/m/n/12/53
+ ^^E \C70/rm/m/n/12/54 + \C70/rm/m/n/12/4e Ü \C70/rm/m/n/12/82 Â \C70/rm/m/n/12
+/5e r \C70/rm/m/n/12/4e * § \C70/rm/m/n/12/53 … \C70/rm/m/n/12/6c Ë \C70/rm/m/n
+/12/61 ^^O \C70/rm/m/n/12/52 õ\OT1/cmr/m/n/12 (cross-attention)\C70/rm/m/n/12/5
+4 å
+ []
+
+[34 <./pic/4.10_ControlNet.png (PNG copy)>]
+<pic/4.10_ControlNetResults.jpg, id=773, 496.67436pt x 248.33719pt>
+File: pic/4.10_ControlNetResults.jpg Graphic file (type jpg)
+<use pic/4.10_ControlNetResults.jpg>
+Package pdftex.def Info: pic/4.10_ControlNetResults.jpg  used on input line 927
+.
+(pdftex.def)             Requested size: 370.49881pt x 185.25204pt.
+
+Overfull \hbox (34.99443pt too wide) in paragraph at lines 934--935
+\C70/rm/m/n/12/51 ˝ \C70/rm/m/n/12/65 p \C70/rm/m/n/12/8d K \C70/rm/m/n/12/50 <
+|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/80 ^^L \C70/rm/m/n/12/97 ^ \C70/rm/m/n/1
+2/4f ^^? \C70/rm/m/n/12/75 ($\OT1/cmr/m/n/12 0$\C70/rm/m/n/12/8d K \C70/rm/m/n/
+12/50 <|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/53 Ê \C70/rm/m/n/12/4e ^^@ * \C70
+/rm/m/n/12/57 ( \C70/rm/m/n/12/67 C \C70/rm/m/n/12/91 Õ \C70/rm/m/n/12/62 ˜ \C7
+0/rm/m/n/12/8d ^^] \C70/rm/m/n/12/4e -|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/53
+ ü \C70/rm/m/n/12/67 , \C70/rm/m/n/12/4f ^^? \C70/rm/m/n/12/75 ( \C70/rm/m/n/12
+/4e Ü $ *\OT1/cmr/m/n/12 ControlNet\C70/rm/m/n/12/57 W|\C70/rm/m/n/12/ff ^^L|
+ []
+
+[35 <./pic/4.10_ControlNetResults.jpg>]
+Overfull \hbox (6.02478pt too wide) in paragraph at lines 982--982
+[]\C70/rm/bx/n/14.4/57 ˙ \C70/rm/bx/n/14.4/4e é\OT1/cmr/bx/n/14.4 NeRF\C70/rm/b
+x/n/14.4/76 Ñ \C70/rm/bx/n/14.4/4e 	 \C70/rm/bx/n/14.4/7e Ù \C70/rm/bx/n/14.4/8
+9 ∆ … \C70/rm/bx/n/14.4/5e t ¶ \C70/rm/bx/n/14.4/8f € \C70/rm/bx/n/14.4/5c U \C
+70/rm/bx/n/14.4/62 • \C70/rm/bx/n/14.4/54 J \C70/rm/bx/n/14.4/52 ^^X \C70/rm/bx
+/n/14.4/70 Ë \C70/rm/bx/n/14.4/65 å\OT1/cmr/bx/n/14.4 (\C70/rm/bx/n/14.4/6e ^^E
+ \C70/rm/bx/n/14.4/53 N \C70/rm/bx/n/14.4/59 ' \C70/rm/bx/n/14.4/5b f\OT1/cmr/b
+x/n/14.4 )
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 11.74988pt
+(hyperref)                replaced by space on input line 982.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 11.74988pt
+(hyperref)                replaced by space on input line 982.
+
+[36]
+Overfull \hbox (13.22003pt too wide) in paragraph at lines 1012--1013
+[]\C70/rm/m/n/12/65 π \C70/rm/m/n/12/68 H|\C70/rm/m/n/12/ff ^^Z| \C70/rm/m/n/12
+/57 ˙ \C70/rm/m/n/12/4e é \C70/rm/m/n/12/79 ^ \C70/rm/m/n/12/7e œ \C70/rm/m/n/1
+2/8f ê \C70/rm/m/n/12/5c ^^D \C70/rm/m/n/12/57 : \C70/rm/m/n/12/76 Ñ\OT1/cmr/m/
+n/12 MLP\C70/rm/m/n/12/7f Q \C70/rm/m/n/12/7e ‹|\C70/rm/m/n/12/ff ^^L| \C70/rm/
+m/n/12/52 ) \C70/rm/m/n/12/75 (\OT1/cmr/m/n/12 GAN\C70/rm/m/n/12/76 Ñ \C70/rm/m
+/n/12/5b ˘ \C70/rm/m/n/12/62 ó \C70/rm/m/n/12/5f ^^O \C70/rm/m/n/12/8b ≠ \C70/r
+m/m/n/12/7e √ \C70/rm/m/n/12/7b V \C70/rm/m/n/12/75 e \C70/rm/m/n/12/4e Œ\OT1/c
+mr/m/n/12 2D\C70/rm/m/n/12/56 ˛
+ []
+
+[37]
+Overfull \hbox (3.4494pt too wide) in paragraph at lines 1018--1019
+[]\C70/rm/m/n/12/65 π \C70/rm/m/n/12/68 H|\C70/rm/m/n/12/ff ^^Z| \C70/rm/m/n/12
+/5c ^^F \C70/rm/m/n/12/98 Ñ \C70/rm/m/n/12/8b ≠ \C70/rm/m/n/12/7e √\OT1/cmr/m/n
+/12 2D\C70/rm/m/n/12/75 ^^_ \C70/rm/m/n/12/62 ^^P \C70/rm/m/n/12/5f ^^O \C70/rm
+/m/n/12/59 ' \C70/rm/m/n/12/6a ! \C70/rm/m/n/12/57 ã \C70/rm/m/n/12/4f \ \C70/r
+m/m/n/12/4e : \C70/rm/m/n/12/51 H \C70/rm/m/n/12/9a å|\C70/rm/m/n/12/ff ^^L| \C
+70/rm/m/n/12/52 ) \C70/rm/m/n/12/75 ( \C70/rm/m/n/12/5f ó \C70/rm/m/n/12/52 ^^F
+ \C70/rm/m/n/12/84 ∏ \C70/rm/m/n/12/99 è \C70/rm/m/n/12/91 « \C70/rm/m/n/12/68 
+7\OT1/cmr/m/n/12 (SDS)\C70/rm/m/n/12/63 _
+ []
+
+[38] (./Note.bbl [39]) [40] [41] (./Note.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2022/07/14>
+ ***********
+Package rerunfilecheck Info: File `Note.out' has not changed.
+(rerunfilecheck)             Checksum: D4AB37BFC478FAEE2E1328746780BB42;10252.
+ ) 
+Here is how much of TeX's memory you used:
+ 29328 strings out of 475188
+ 584147 string characters out of 5757325
+ 1947248 words of memory out of 5000000
+ 49528 multiletter control sequences out of 15000+600000
+ 655181 words of font info for 393 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 88i,9n,92p,1071b,581s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/s
+imsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows
+/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:
+/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun
+.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Font
+s/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Wind
+ows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf>
+<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/sim
+hei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/F
+onts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/W
+indows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.t
+tf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/
+simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Window
+s/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c
+:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsu
+n.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fon
+ts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Win
+dows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc
+><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/si
+mhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/
+Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/
+Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.
+ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts
+/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windo
+ws/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><
+c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sims
+un.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fo
+nts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wi
+ndows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.tt
+f><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/s
+imsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows
+/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:
+/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun
+.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Font
+s/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Wind
+ows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf>
+<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/sim
+hei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/F
+onts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/W
+indows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.t
+tc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/
+simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Window
+s/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c
+:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsu
+n.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fon
+ts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Win
+dows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc
+><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/si
+msun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/
+Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/
+Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.
+ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts
+/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windo
+ws/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><
+c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simh
+ei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fo
+nts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wi
+ndows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.tt
+c><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/s
+imhei.ttf><c:/Windows/Fonts/simhei.ttf><d:/TextProcessing/Latex/texlive/2023/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/TextProcessing/Latex/tex
+live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/TextProcessi
+ng/Latex/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/T
+extProcessing/Latex/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb><d:/TextProcessing/Latex/texlive/2023/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr12.pfb><d:/TextProcessing/Latex/texlive/2023/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr8.pfb><d:/TextProcessing/Latex/texlive/2023/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsl12.pfb><d:/TextProcessing/Latex/texlive/2023/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><d:/TextProcessing/Latex/tex
+live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/TextProcessi
+ng/Latex/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/T
+extProcessing/Latex/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti
+12.pfb><d:/TextProcessing/Latex/texlive/2023/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmtt12.pfb><d:/TextProcessing/Latex/texlive/2023/texmf-dist/fonts/type1
+/public/amsfonts/symbols/msbm10.pfb><d:/TextProcessing/Latex/texlive/2023/texmf
+-dist/fonts/type1/public/cm-super/sfbx1200.pfb><d:/TextProcessing/Latex/texlive
+/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on Note.pdf (44 pages, 16204932 bytes).
+PDF statistics:
+ 1399 PDF objects out of 1440 (max. 8388607)
+ 1054 compressed objects within 11 object streams
+ 114 named destinations out of 1000 (max. 500000)
+ 713 words of extra memory for PDF output out of 10000 (max. 10000000)
+

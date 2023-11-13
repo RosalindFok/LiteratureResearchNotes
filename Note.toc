@@ -1,0 +1,38 @@
+\contentsline {section}{\numberline {1}沈向洋技术类论文十问}{1}{section.1}%
+\contentsline {section}{\numberline {2}数据集和工具箱}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}OpenNeuro}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Allen Brain Map}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}CRCNS}{2}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}NeuroRA}{2}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Brainlife}{2}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}PyMVPA}{3}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Easy fMRI}{3}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Natural Scenes Dataset数据集\cite {Allen2022}}{3}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}Algonauts Project 2023: Brain Data}{3}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10}OpenNeuro2018年 Visual image reconstruction}{6}{subsection.2.10}%
+\contentsline {subsection}{\numberline {2.11}OpenNeuro2020年 Deep Image Reconstruction}{6}{subsection.2.11}%
+\contentsline {subsection}{\numberline {2.12}OpenNeuro2022年 An fMRI Dataset for Concept Representation with semantic feature annotations}{7}{subsection.2.12}%
+\contentsline {subsection}{\numberline {2.13}OpenNeuro2022年 THINGS-fMRI}{7}{subsection.2.13}%
+\contentsline {subsection}{\numberline {2.14}OpenNeuro2022年 Things-EEG Human electroencephalography recordings from 50 subjects for 22248 images from 1854 object concepts}{7}{subsection.2.14}%
+\contentsline {subsection}{\numberline {2.15}OpenNeuro2023年 A large-scale fMRI dataset for the visual processing of naturalistic scenes}{8}{subsection.2.15}%
+\contentsline {subsection}{\numberline {2.16}OpenNeuro2023年 An fMRI dataset for testing semantic language decoders}{8}{subsection.2.16}%
+\contentsline {subsection}{\numberline {2.17}OpenNeuro2023年 Raw data for Engaging in word recognition elicits highly specific modulations in visual cortex}{8}{subsection.2.17}%
+\contentsline {section}{\numberline {3}综述类}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}2022年10月 不同神经记录方式和方法下的视觉信息的神经解码\cite {Zhang2022NeuralDO}}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}2023年7月 医学图像描述综述：编码、解码及最新进展\cite {Zhu2023JoIG}}{9}{subsection.3.2}%
+\contentsline {section}{\numberline {4}技术类}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}2023年3月 从人脑活动中利用隐式扩散模型进行高分辨率图像重建\cite {takagi2023high}}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}2022年4月 OpenAI公司提出的基于CLIP模型改进的DALL·E 2模型\cite {ramesh2022hierarchical}}{14}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}2023年5月 MindEye用对比学习和扩散先验来从fMRI中重建视觉图像\cite {Scotti2023ReconstructingTM}}{16}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}2023年1月 Brain-Diffuser利用潜在扩散从fMRI重建自然场景\cite {ozcelik2023natural}}{19}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}2022年4月 基于非侵入人脑记录的连续语言的语义重建\cite {tang2023}}{22}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}2023年8月 Algonauts2023挑战赛第一名解决方案\cite {yang2023memory}}{25}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}2023年8月 Algonauts2023挑战赛第二名解决方案\cite {Adeli2023.08.02.551743}}{27}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}2023年8月 Algonauts2023挑战赛第三名解决方案\cite {nguyen2023algonauts}}{29}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}2022年NeurIPS Mind Reader从大脑活动重建复杂图像\cite {NEURIPS2022_bee5125b}}{30}{subsection.4.9}%
+\contentsline {subsection}{\numberline {4.10}2023年ICCV Best Paper 向文字到图像的扩散模型中添加条件控制\cite {zhang2023adding}}{32}{subsection.4.10}%
+\contentsline {subsection}{\numberline {4.11}title}{36}{subsection.4.11}%
+\contentsline {subsection}{\numberline {4.12}title}{36}{subsection.4.12}%
+\contentsline {section}{\numberline {5}报告类}{36}{section.5}%
+\contentsline {subsection}{\numberline {5.1}基于NeRF的三维视觉年度进展报告\hskip 1em\relax 刘烨斌(清华大学)\hskip 1em\relax 2023年6月14日}{36}{subsection.5.1}%
+\contentsline {section}{\numberline {A}附录标题}{41}{appendix.a.A}%

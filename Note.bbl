@@ -1,0 +1,85 @@
+\begin{thebibliography}{10}
+
+\bibitem{Allen2022}
+Emily~J. Allen, Ghislain St-Yves, Yihan Wu, Jesse~L. Breedlove, Jacob~S.
+  Prince, Logan~T. Dowdle, Matthias Nau, Brad Caron, Franco Pestilli, Ian
+  Charest, J.~Benjamin Hutchinson, Thomas Naselaris, and Kendrick Kay.
+\newblock A massive 7t fmri dataset to bridge cognitive neuroscience and
+  artificial intelligence.
+\newblock {\em Nature Neuroscience}, 25(1):116--126, Jan 2022.
+
+\bibitem{Zhang2022NeuralDO}
+Yijun Zhang, Zhaofei Yu, Jian~K. Liu, and Tiejun Huang.
+\newblock Neural decoding of visual information across different neural
+  recording modalities and approaches.
+\newblock {\em Machine Intelligence Research}, 19:350 -- 365, 2022.
+
+\bibitem{Zhu2023JoIG}
+Zhu Yi and Li~Xiu.
+\newblock A survey of medical image captioning technique: encoding, decoding
+  and latest advance.
+\newblock {\em Journal of Image and Graphics}, 28:1990--2010, 01 2023.
+
+\bibitem{takagi2023high}
+Yu~Takagi and Shinji Nishimoto.
+\newblock High-resolution image reconstruction with latent diffusion models
+  from human brain activity.
+\newblock In {\em Proceedings of the IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition}, pages 14453--14463, 2023.
+
+\bibitem{ramesh2022hierarchical}
+Aditya Ramesh, Prafulla Dhariwal, Alex Nichol, Casey Chu, and Mark Chen.
+\newblock Hierarchical text-conditional image generation with clip latents,
+  2022.
+
+\bibitem{Scotti2023ReconstructingTM}
+Paul~S. Scotti, Atmadeep Banerjee, Jimmie Goode, Stepan Shabalin, Alex Nguyen,
+  Ethan Cohen, Aidan Dempster, Nathalie Verlinde, Elad Yundler, David Weisberg,
+  Kenneth~A. Norman, and T.~Abraham.
+\newblock Reconstructing the mind's eye: fmri-to-image with contrastive
+  learning and diffusion priors.
+\newblock {\em ArXiv}, abs/2305.18274, 2023.
+
+\bibitem{ozcelik2023natural}
+Furkan Ozcelik and Rufin VanRullen.
+\newblock Natural scene reconstruction from fmri signals using generative
+  latent diffusion, 2023.
+
+\bibitem{tang2023}
+Jerry Tang, Amanda LeBel, Shailee Jain, and Alexander~G. Huth.
+\newblock Semantic reconstruction of continuous language from non-invasive
+  brain recordings.
+\newblock {\em Nature Neuroscience}, 26(5):858--866, May 2023.
+
+\bibitem{yang2023memory}
+Huzheng Yang, James Gee, and Jianbo Shi.
+\newblock Memory encoding model, 2023.
+
+\bibitem{Adeli2023.08.02.551743}
+Hossein Adeli, Sun Minni, and Nikolaus Kriegeskorte.
+\newblock Predicting brain activity using transformers.
+\newblock {\em bioRxiv}, 2023.
+
+\bibitem{nguyen2023algonauts}
+Xuan-Bac Nguyen, Xudong Liu, Xin Li, and Khoa Luu.
+\newblock The algonauts project 2023 challenge: Uark-ualbany team solution,
+  2023.
+
+\bibitem{NEURIPS2022_bee5125b}
+Sikun Lin, Thomas Sprague, and Ambuj~K Singh.
+\newblock Mind reader: Reconstructing complex images from brain activities.
+\newblock In S.~Koyejo, S.~Mohamed, A.~Agarwal, D.~Belgrave, K.~Cho, and A.~Oh,
+  editors, {\em Advances in Neural Information Processing Systems}, volume~35,
+  pages 29624--29636. Curran Associates, Inc., 2022.
+
+\bibitem{zhang2023adding}
+Lvmin Zhang, Anyi Rao, and Maneesh Agrawala.
+\newblock Adding conditional control to text-to-image diffusion models, 2023.
+
+\bibitem{Engel1997RetinotopicOI}
+Stephen~A. Engel, Gary~H. Glover, and Brian~A. Wandell.
+\newblock Retinotopic organization in human visual cortex and the spatial
+  precision of functional mri.
+\newblock {\em Cerebral cortex}, 7 2:181--92, 1997.
+
+\end{thebibliography}
