@@ -126,10 +126,17 @@
     简介概述：支持GPU的用于人脑映射和解码的的工具箱。
 
     \subsection{Natural Scenes Dataset数据集\cite{Allen2022}}
-    \noindent网址：\url{http://naturalscenesdataset.org/}\\
-    简介：\url{https://cvnlab.slite.page/p/AGEte5w9Nq/Overview-of-the-data}\\
-    下载指令：aws s3 sync [--no-sign-request] s3://natural-scenes-dataset/子集名称 本地路径\\
-    注意：必须要有亚马逊账号，否则下载的数据有问题。\\
+    \noindent网址：\url{http://naturalscenesdataset.org/}
+
+    简介：\url{https://cvnlab.slite.page/p/AGEte5w9Nq/Overview-of-the-data}
+
+    下载指令：\texttt{aws s3 sync s3://natural-scenes-dataset/子集名称~本地路径 -no-sign-request}
+
+
+    注意：部分无法访问的数据参见\url{https://cvnlab.slite.page/p/AGEte5w9Nq/Overview-of-the-data}中的\texttt{Held-out data}一栏，其中提到的子文件夹(可能出现在不同的父级文件夹中)无法下载。
+
+    建议优先阅读FAQ：\url{https://cvnlab.slite.page/p/QtQPzl1xnH/FAQ}
+
     8名受试者，1.8mm分辨率全脑7TfMRI。子集的名称和含义见表\ref{subset}。
 
     \begin{table}[ptbp]
@@ -953,6 +960,150 @@
 
     是否适用于其他具有U-Net结构或者类似结构的模型？固定参数集$\Theta$和可训练参数集$\Theta_{z1},\Theta_{z2}$各自对最终生成结果的影响有多大？
 
+
+    \subsection{2023年NeurIPS Oral用于视觉探索的大脑扩散模型：使用大规模生成模型的皮层发现\cite{luo2023brain}}
+     \noindent标题：Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models
+
+    \noindent\textbf{(1).论文试图解决什么问题？}
+
+    BrainDiVE目的是使用成对的自然图像刺激-fMRI影像来生成能够最大程度激活给定的视皮层中某一区域的自然图像刺激。
+
+    \noindent\textbf{(2).这是否是一个新的问题}
+
+    在此前一系列使用扩散模型来从fMRI中恢复出自然图像刺激的工作中，该工作找到了图像中特定语义区域和视皮层ROI之间的关系。这个创新点，在此前的论文中的有所提及。
+
+    \noindent\textbf{(3).这篇文章要验证一个什么科学假设？}
+
+    BrainDiVE特别突出了视皮层ROI区域和自然图像刺激的特定语义区域之间的联系。
+
+    \noindent\textbf{(4).有哪些相关研究？如何归类？谁是这一领域值得关注的研究员？}
+
+    第一作者Andrew Luo博士，做神经计算和机器学习结合，他最近的工作和我们关注的方向高度重合。个人主页上的工作值得关注：\url{https://www.cs.cmu.edu/~afluo/}
+
+    \noindent\textbf{(5).论文中提到的解决方案之关键是什么？}
+
+    图\ref{BrainDiVEarchitecture}的上半：BrainDiVE架构的2个核心组件，预训练的隐式扩散模型作为解码器，将图像映射到皮层活动的编码器。
+    图\ref{BrainDiVEarchitecture}的下半：选择大脑两侧半球中关于“场景”的体素，每4步进行一次可视化，可以发现结构逐渐变得清晰。
+
+    \begin{figure}[htbp]
+        \centering
+        \includegraphics[width=0.95\textwidth]{pic/4.11_BrainDiVE_Architecture.png}
+        \caption{Architecture of brain guided diffusion (BrainDiVE)}
+        \label{BrainDiVEarchitecture}
+    \end{figure}
+
+    大脑编码模型：编码器$M_\theta$将自然图像$\mathcal{I}\in{\mathbb{R}^{3\times{H}\times{W}}}$映射到大脑fMRI影像$\mathcal{B}\in{\mathbb{R}^{N}}$。BrainDiVE的编码器的作用对象是高级视皮层，包含两个组件：第一个是CLIP训练的图像编码器，输出$K$维的隐式embedding向量；第二个是线性自适应层(linear adaptation layer)$W\in{\mathbb{R}^{N\times{K}}},b\in{\mathbb{R}^{N}}$，其作用是将欧几里得标准化的图像embedding映射到大脑活动，在训练参数$W,b$的过程中使用图像的均方误差损失。
+
+    大脑的条件扩散模型(guided diffusion model)：使用对比训练的图像到概念编码器(image-to-concept encoder)，并寻求其与文本到概念编码器(text-to-concept encoder)的相似度度量。BrainDiVE通过图像到大脑编码器(image-to-brain encoder)来约束扩散模型。由于当前的隐式图像是高噪声的，且可能在自然图像的分布之外，因此在不改变条件(guided)的情况下使用当前去噪$x_t$效果很差，所以BrainDiVE使用最终图像的带有欧拉似然的加权公式。通过将图像扩散模型与大脑的可微分编码模型相结合，BrainDiVE能够生成寻求最大限度地激活任何给定大脑区域的图像。
+
+    \noindent\textbf{(6).论文中的实验是如何设计的？}
+
+    \noindent\textbf{(6.1).实验设置(对数据集的解析和预处理方式值得关注)}
+
+    使用GLMSingle\cite{10.7554/eLife.77599}计算$\beta$权重(激活);在每次扫描(session)的基础上将体素归一化到$\mu=0,\sigma=1$。训练集:测试集=9:1。BrainDiVE使用\texttt{stable-diffusion-2-1-base}生成$512\times512$分辨率的图像。大脑编码器使用\texttt{ViT-B/16}，CLIP使用\texttt{CoCa ViT-L/14}。
+
+    每个受试者单独训练一个大脑编码器，以预测所有高级视皮层的体素活动。
+
+    \noindent\textbf{(6.2).广泛类别选择性网络(Broad Category-Selective Networks)}
+
+    对于不同的语义类别(bodies、faces、places、words、food、multiple)，大脑的不同区域有不同的特异性反应。BrainDiVE使用CLIP将图像分类为bodies、faces、places、words、food这5个类别，研究大脑中对这些类别反应强度最高的区域。其可视化如图\ref{visualize selective voxels}所示：
+
+    \begin{figure}[htbp]
+        \centering
+        \includegraphics[width=0.95\textwidth]{pic/4.11_Visualizing_category_selective_voxels.png}
+        \caption{Visualizing category selective voxels}
+        \label{visualize selective voxels}
+    \end{figure}
+
+    \noindent\textbf{(6.3).独立的兴趣区域(Individual ROIs)}
+
+    主要针对枕叶面孔区(occipital face area, OFA)和梭状回面孔区(fusiform face area, FFA)与人类面部图像和动物面部图像刺激进行了实验。
+
+    \noindent\textbf{(6.4).兴趣区域的语义划分(Semantic Divisions within ROIs)}
+
+    使用vmf-clustering\cite{10.5555/1046920.1088718}聚类器对原始刺激图像进行二聚类、对BrainDiVE生成的图像进行二聚类；对于食物(food)和枕叶空间区域(occipital place area, OPA)的实验发现：BrainDiVE生成的图像在视觉和语义特征上两个聚类之间的差异更显著。
+
+    \noindent\textbf{(7).用于定量评估的数据集是什么？代码有没有开源？}
+
+    数据集：NSD\cite{Allen2022}中的S1、S2、S5、S7
+
+    项目地址：\url{https://www.cs.cmu.edu/~afluo/BrainDiVE/}
+
+    代码连接：\url{https://github.com/aluo-x/BrainDiVE}
+
+    \noindent\textbf{(8).论文中的实验及结果有没有很好地支撑需要验证的科学假设？}
+
+    $4.4$节的这个实验设计不错，可以借鉴。
+
+    \noindent\textbf{(9).这篇论文到底有什么贡献？}
+
+    将大脑ROI区域和最能刺激该区域的语义关联了起来。
+
+    \noindent\textbf{(10).下一步呢？有什么工作可以继续深入？}
+
+    作者计划接下来使用合成图像进行刺激(制作自己的数据集)、探究多个ROI综合的效果。
+
+    \subsection{2024年ICLR BrainSCUBA: 视皮层选择性的细粒度自然语言文本\cite{luo2023brainscuba}}
+    \noindent{标题：BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity}
+
+    \noindent\textbf{(1).论文试图解决什么问题？}
+
+    BrainSCUBA目的是：生成大脑体素的语义选择性(semantic selectivity)的细粒度(体素级别)文本，该文本描述了大脑所接收到的自然图像刺激。
+
+    \noindent\textbf{(2).这是否是一个新的问题}
+
+    BrainDiVE\cite{luo2023brain}的继承性工作。
+
+    \noindent\textbf{(3).这篇文章要验证一个什么科学假设？}
+
+    高级视皮层在不同的脑区处理不同的语义概念。
+
+    \noindent\textbf{(4).有哪些相关研究？如何归类？谁是这一领域值得关注的研究员？}
+
+    Andrew Luo：\url{https://www.cs.cmu.edu/~afluo/}
+
+    \noindent\textbf{(5).论文中提到的解决方案之关键是什么？}
+
+    图\ref{Architecture_of_BrainSCUBA}中：(a).BrainSCUBA包含了一个fMRI编码器，编码器将图像映射到大脑体素活动。编码器由固定权重的CLIP加上体素层面的线性自适应层组成。(b).通过将权重投影到CLIP的embedding空间中来解码体素层面的权重，然后生成自然图像的文本句子。(c).从各个ROI区域中选择句子。
+
+    \begin{figure}[htbp]
+        \centering
+        \includegraphics[width=0.95\textwidth]{pic/4.12_Architecture_of_BrainSCUBA.png}
+        \caption{Architecture of BrainSCUBA}
+        \label{Architecture_of_BrainSCUBA}
+    \end{figure}
+
+    图像到大脑fMRI的编码器与BrainDiVE\cite{luo2023brain}相同。
+
+    \noindent\textbf{(6).论文中的实验是如何设计的？}
+
+    配合代码阅读\texttt{4.1 setup}
+
+    \noindent\textbf{(6.1). 文本约束下的大脑图像合成}
+
+    使用文本到图像(text-to-image)的扩散模型，在合成过程中添加一个限定ROI区域上的文本(voxel-wise captions)作为约束条件。
+
+    \noindent\textbf{(6.2). 大脑的社交网络}
+
+    结合社交网络的视觉部分的脑科学研究进行实验，作者发现楔前叶视觉区(precuneus visual area, PVA)和颞叶顶叶交界处(temporoparietal junction, TPJ)对人相关概念的反应很大。
+
+    \noindent\textbf{(7).用于定量评估的数据集是什么？代码有没有开源？}
+
+    数据集：NSD\cite{Allen2022}中的S1、S2、S5、S7
+
+    未开源代码，但已获得。
+
+    \noindent\textbf{(8).论文中的实验及结果有没有很好地支撑需要验证的科学假设？}
+
+    在BrainDiVE工作的基础上增加了描述性文本(captions)，其关于脑神经科学的研究本质是相同。
+
+    \noindent\textbf{(9).这篇论文到底有什么贡献？}
+
+    罗博士提供了宝贵的研究代码，值得感谢。
+
+    \noindent\textbf{(10).下一步呢？有什么工作可以继续深入？}
+
+    结合脑图谱、更细化的mask。
 
     \subsection{title}
     \noindent\textbf{(1).论文试图解决什么问题？}

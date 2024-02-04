@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.11)  13 NOV 2023 10:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.11)  4 FEB 2024 10:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1129,7 +1129,7 @@ TeX and DVIPDFMx (CTEX)
 map}{UGBK.sfd}{Unicode.sfd}) [0
 
 ] (./Note.toc [1]
-Overfull \hbox (52.97057pt too wide) in paragraph at lines 37--37
+Overfull \hbox (52.97057pt too wide) in paragraph at lines 39--39
  [][] [][][]\C70/rm/m/n/12/57 ˙ \C70/rm/m/n/12/4e é\OT1/cmr/m/n/12 NeRF\C70/rm/
 m/n/12/76 Ñ \C70/rm/m/n/12/4e 	 \C70/rm/m/n/12/7e Ù \C70/rm/m/n/12/89 ∆ … \C70/
 rm/m/n/12/5e t ¶ \C70/rm/m/n/12/8f € \C70/rm/m/n/12/5c U \C70/rm/m/n/12/62 • \C
@@ -1139,12 +1139,12 @@ rm/m/n/12/5e t ¶ \C70/rm/m/n/12/8f € \C70/rm/m/n/12/5c U \C70/rm/m/n/12/62 • \C
 70/rm/m/n/12/67 ^^H\OT1/cmr/m/n/12 14\C70/rm/m/n/12/65 Â[][] [][]  
  []
 
-)
+[2{d:/TextProcessing/Latex/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-
+super-ts1.enc}])
 \tf@toc=\write5
 \openout5 = `Note.toc'.
 
- [2{d:/TextProcessing/Latex/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm
--super-ts1.enc}]
+ [3]
 Underfull \hbox (badness 10000) in paragraph at lines 71--81
 
  []
@@ -1166,27 +1166,57 @@ m/n/12/65 ≠ \C70/rm/m/n/12/5c B \C70/rm/m/n/12/62 k \C70/rm/m/n/12/63 œ\OT1/cmr
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ifnextchar' on input line 128.
 
+LaTeX Font Info:    Trying to load font information for C70+zhfs on input line 
+133.
 
-Overfull \hbox (76.46571pt too wide) in paragraph at lines 139--151
+(d:/TextProcessing/Latex/texlive/2023/texmf-dist/tex/latex/zhmetrics/c70zhfs.fd
+File: c70zhfs.fd 2009/09/23 4.8.2
+)
+Overfull \hbox (1.8995pt too wide) in paragraph at lines 133--134
+[]\C70/rm/m/n/12/4e  \C70/rm/m/n/12/8f } \C70/rm/m/n/12/63 ^^G \C70/rm/m/n/12/
+4e ‰|\C70/rm/m/n/12/ff ^^Z| \OT1/cmtt/m/n/12 aws s3 sync s3://natural-scenes-da
+taset/\C70/zhfs/m/n/12/5b P \C70/zhfs/m/n/12/96 ∆ \C70/zhfs/m/n/12/54 ^^M \C70/
+zhfs/m/n/12/79  \C70/zhfs/m/n/12/67 ,
+ []
+
+
+Overfull \hbox (1.30003pt too wide) in paragraph at lines 136--137
+\OT1/cmtt/m/n/12 e 5 w 9 N q / O v e r v i e w -[] of -[] t h e -[] d a ta$[][]
+\C70/rm/m/n/12/4e - \C70/rm/m/n/12/76 Ñ\OT1/cmtt/m/n/12 Held-out data\C70/rm/m/
+n/12/4e ^^@ \C70/rm/m/n/12/68 ^^O|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/51 v \C
+70/rm/m/n/12/4e - \C70/rm/m/n/12/63 – \C70/rm/m/n/12/52 0 \C70/rm/m/n/12/76 Ñ \
+C70/rm/m/n/12/5b P \C70/rm/m/n/12/65 á
+ []
+
+
+Overfull \hbox (0.13315pt too wide) in paragraph at lines 138--139
+[]\C70/rm/m/n/12/5e ˙ \C70/rm/m/n/12/8b Æ \C70/rm/m/n/12/4f ^^X \C70/rm/m/n/12/
+51 H \C70/rm/m/n/12/96 ^^E \C70/rm/m/n/12/8b ˚\OT1/cmr/m/n/12 FAQ|\C70/rm/m/n/1
+2/ff ^^Z| [][]$\OT1/cmtt/m/n/12 h t t p s : / / c v n l a b . s l i t e . p a g
+ e / p / Q t Q P z l 1 x n H / F AQ$[][] 
+ []
+
+
+Overfull \hbox (76.46571pt too wide) in paragraph at lines 146--158
  [] 
  []
 
 
-Overfull \hbox (2.25009pt too wide) in paragraph at lines 155--159
+Overfull \hbox (2.25009pt too wide) in paragraph at lines 162--166
 \C70/rm/m/n/12/4e  \C70/rm/m/n/12/8f } \C70/rm/m/n/12/57 0 @|\C70/rm/m/n/12/ff
  ^^Z| [][]$\OT1/cmtt/m/n/12 h t t p s : / / d r i v e . g o o g l e . c o m / d
  r i v e / f o l d e r s / 1 7 R y B A n v D h r r t 1 8
  []
 
 
-Overfull \hbox (2.25009pt too wide) in paragraph at lines 155--159
+Overfull \hbox (2.25009pt too wide) in paragraph at lines 162--166
 \C70/rm/m/n/12/4e „ \C70/rm/m/n/12/78 ^^A \C70/rm/m/n/12/65 Y \C70/rm/m/n/12/7a
  |\C70/rm/m/n/12/ff ^^Z| [][]$\OT1/cmtt/m/n/12 h t t p s : / / c o l a b . r e
  s e a r c h . g o o g l e . c o m / d r i v e / 1 b L J G P 3 b A o _ h A O
  []
 
 [3]
-Overfull \hbox (5.86696pt too wide) in paragraph at lines 160--161
+Overfull \hbox (5.86696pt too wide) in paragraph at lines 167--168
 \C70/rm/m/n/12/50 œ \C70/rm/m/n/12/66   \C70/rm/m/n/12/5c ^^D \C70/rm/m/n/12/56
  ﬁ \C70/rm/m/n/12/53 ü \C70/rm/m/n/12/59 À \C70/rm/m/n/12/76 Ñ\OT1/cmr/m/n/12 '
 .hdf5'nsd\C70/rm/m/n/12/56 ˛ \C70/rm/m/n/12/50 œ \C70/rm/m/n/12/65 á \C70/rm/m/
@@ -1198,20 +1228,20 @@ C70/rm/m/n/12/4e *
  []
 
 [4]
-Overfull \hbox (3.72237pt too wide) in paragraph at lines 176--177
+Overfull \hbox (3.72237pt too wide) in paragraph at lines 183--184
 []\OT1/cmr/m/n/12 Body-selective re-gions (floc-bodies): EBA, FBA-1, FBA-2, mTL
 -bodies. 
  []
 
 
-Overfull \hbox (2.25009pt too wide) in paragraph at lines 193--194
+Overfull \hbox (2.25009pt too wide) in paragraph at lines 200--201
 []\C70/rm/m/n/12/4e „ \C70/rm/m/n/12/78 ^^A|\C70/rm/m/n/12/ff ^^Z| [][]$\OT1/cm
 tt/m/n/12 h t t p s : / / g i t h u b . c o m / H o s s e i n a d e l i / a l g
  o n a u t s 2 0 2 3 _ t r a n s f o r
  []
 
 [5]
-Overfull \hbox (130.6093pt too wide) in paragraph at lines 209--214
+Overfull \hbox (130.6093pt too wide) in paragraph at lines 216--221
 \C70/rm/m/n/12/6b œ \C70/rm/m/n/12/54 ^^M \C70/rm/m/n/12/53 ◊ \C70/rm/m/n/12/8b
  ’ \C70/rm/m/n/12/80 ^^E \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/65 p \C70/rm/m/n/12
 /63 n \C70/rm/m/n/12/53 ^^E \C70/rm/m/n/12/54 + \C70/rm/m/n/12/57 ( \C70/rm/m/n
@@ -1223,54 +1253,55 @@ n/12 MRI\C70/rm/m/n/12/65 p \C70/rm/m/n/12/63 n|\C70/rm/m/n/12/ff ^^Z| \OT1/cmr
  []
 
 
-Overfull \hbox (85.79153pt too wide) in paragraph at lines 209--214
+Overfull \hbox (85.79153pt too wide) in paragraph at lines 216--221
 \OT1/cmr/m/n/12 ses-perceptionNaturalImageTest|\C70/rm/m/n/12/30 ^^A| \OT1/cmr/
 m/n/12 ses-perceptionArtificialImage|\C70/rm/m/n/12/30 ^^A| \OT1/cmr/m/n/12 ses
 -perceptionLetterImage|\C70/rm/m/n/12/30 ^^A|
  []
 
-
-Overfull \hbox (1.46121pt too wide) in paragraph at lines 215--215
+[6]
+Overfull \hbox (1.46121pt too wide) in paragraph at lines 222--222
 \OT1/cmr/bx/n/14.4 Rep-re-sen-ta-tion with se-man-tic fea-ture an-no-ta-tions 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--220
+Underfull \hbox (badness 10000) in paragraph at lines 223--227
 
  []
 
-[6]
-Overfull \hbox (3.82115pt too wide) in paragraph at lines 228--228
+
+Overfull \hbox (3.82115pt too wide) in paragraph at lines 235--235
 []\OT1/cmr/bx/n/14.4 OpenNeuro2022\C70/rm/bx/n/14.4/5e t \OT1/cmr/bx/n/14.4 Thi
 ngs-EEG Hu-man elec-troen-
  []
 
 [7]
-Overfull \hbox (0.8829pt too wide) in paragraph at lines 248--248
+Overfull \hbox (0.8829pt too wide) in paragraph at lines 255--255
 []\OT1/cmr/bx/n/14.4 OpenNeuro2023\C70/rm/bx/n/14.4/5e t \OT1/cmr/bx/n/14.4 Raw
  data for En-gag-ing in word
  []
 
+[8]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 259.
+(hyperref)                removing `\@ifnextchar' on input line 266.
 
 
-Overfull \hbox (3.17679pt too wide) in paragraph at lines 260--264
+Overfull \hbox (3.17679pt too wide) in paragraph at lines 267--271
 \C70/rm/m/n/12/68 ^^G \C70/rm/m/n/12/98 ò|\C70/rm/m/n/12/ff ^^Z| \OT1/cmr/m/n/1
 2 Neural De-cod-ing of Vi-sual In-for-ma-tion Across Dif-fer-ent Neu-ral Record
 -
  []
 
 
-Overfull \hbox (4.4501pt too wide) in paragraph at lines 260--264
+Overfull \hbox (4.4501pt too wide) in paragraph at lines 267--271
 \C70/rm/m/n/12/94 ˛ \C70/rm/m/n/12/63 •|\C70/rm/m/n/12/ff ^^Z| [][]$\OT1/cmtt/m
 /n/12 h t t p s : / / l i n k . s p r i n g e r . c o m / a r t i c l e / 1 0 .
  1 0 0 7 / s 1 1 6 33 -[] 0 2 2 -[] 1 3 35 -[]
  []
 
-[8]
-Overfull \hbox (4.01958pt too wide) in paragraph at lines 265--265
+
+Overfull \hbox (4.01958pt too wide) in paragraph at lines 272--272
 []\OT1/cmr/bx/n/14.4 2023\C70/rm/bx/n/14.4/5e t\OT1/cmr/bx/n/14.4 7\C70/rm/bx/n
 /14.4/67 ^^H \C70/rm/bx/n/14.4/53 ; \C70/rm/bx/n/14.4/5b f \C70/rm/bx/n/14.4/56
  ˛ \C70/rm/bx/n/14.4/50 œ \C70/rm/bx/n/14.4/63 œ \C70/rm/bx/n/14.4/8f  \C70/rm
@@ -1283,15 +1314,15 @@ Overfull \hbox (4.01958pt too wide) in paragraph at lines 265--265
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 265.
+(hyperref)                removing `\@ifnextchar' on input line 272.
 
-<pic/3.2_structure.png, id=519, 435.12563pt x 288.3272pt>
+<pic/3.2_structure.png, id=548, 435.12563pt x 288.3272pt>
 File: pic/3.2_structure.png Graphic file (type png)
 <use pic/3.2_structure.png>
-Package pdftex.def Info: pic/3.2_structure.png  used on input line 272.
+Package pdftex.def Info: pic/3.2_structure.png  used on input line 279.
 (pdftex.def)             Requested size: 370.49881pt x 245.51921pt.
-
-Overfull \hbox (33.63567pt too wide) in paragraph at lines 277--278
+[9]
+Overfull \hbox (33.63567pt too wide) in paragraph at lines 284--285
 \C70/rm/m/n/12/53 ; \C70/rm/m/n/12/5b f \C70/rm/m/n/12/56 ˛ \C70/rm/m/n/12/50 œ
  \C70/rm/m/n/12/63 œ \C70/rm/m/n/12/8f  \C70/rm/m/n/12/8b ∫ \C70/rm/m/n/12/65 
 á \C70/rm/m/n/12/4e -|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/4e ^^@ \C70/rm/m/n/
@@ -1303,15 +1334,15 @@ ETEOR\C70/rm/m/n/12/54 å\OT1/cmr/m/n/12 CIDEr\C70/rm/m/n/12/5f ó
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 280.
+(hyperref)                removing `\@ifnextchar' on input line 287.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 281--283
+Underfull \hbox (badness 10000) in paragraph at lines 288--290
 
  []
 
-[9] [10 <./pic/3.2_structure.png (PNG copy)>]
-Overfull \hbox (1.44922pt too wide) in paragraph at lines 307--308
+[10 <./pic/3.2_structure.png (PNG copy)>]
+Overfull \hbox (1.44922pt too wide) in paragraph at lines 314--315
 \C70/rm/m/n/12/5f ^^O \C70/rm/m/n/12/88 h \C70/rm/m/n/12/8f æ$\OML/cmm/m/it/12 
 z$|\C70/rm/m/n/12/ff ^^L| $\OML/cmm/m/it/12 z$\C70/rm/m/n/12/51 ç \C70/rm/m/n/1
 2/7e œ \C70/rm/m/n/12/75 1 \C70/rm/m/n/12/81 Í \C70/rm/m/n/12/52 ® \C70/rm/m/n/
@@ -1323,30 +1354,29 @@ n/12/89 „ \C70/rm/m/n/12/78 ^^A \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/56 ˛ \C70/rm
 /m/n/12/50 œ$\OML/cmm/m/it/12 X[]$|\C70/rm/m/n/12/30 ^^B|
  []
 
-<pic/4.1_latent diffusion model.png, id=556, 453.19313pt x 219.82124pt>
+<pic/4.1_latent diffusion model.png, id=583, 453.19313pt x 219.82124pt>
 File: pic/4.1_latent diffusion model.png Graphic file (type png)
 <use pic/4.1_latent diffusion model.png>
 Package pdftex.def Info: pic/4.1_latent diffusion model.png  used on input line
- 315.
+ 322.
 (pdftex.def)             Requested size: 370.49881pt x 179.7112pt.
-<pic/4.1_decoding analysis.png, id=557, 383.18156pt x 286.06876pt>
+<pic/4.1_decoding analysis.png, id=584, 383.18156pt x 286.06876pt>
 File: pic/4.1_decoding analysis.png Graphic file (type png)
 <use pic/4.1_decoding analysis.png>
-Package pdftex.def Info: pic/4.1_decoding analysis.png  used on input line 317.
+Package pdftex.def Info: pic/4.1_decoding analysis.png  used on input line 324.
 
 (pdftex.def)             Requested size: 370.49881pt x 276.6177pt.
-<pic/4.1_encoding analysis.png, id=558, 462.97969pt x 244.66406pt>
+<pic/4.1_encoding analysis.png, id=585, 462.97969pt x 244.66406pt>
 File: pic/4.1_encoding analysis.png Graphic file (type png)
 <use pic/4.1_encoding analysis.png>
-Package pdftex.def Info: pic/4.1_encoding analysis.png  used on input line 319.
+Package pdftex.def Info: pic/4.1_encoding analysis.png  used on input line 326.
 
 (pdftex.def)             Requested size: 370.49881pt x 195.79497pt.
 
-LaTeX Warning: Float too large for page by 95.07387pt on input line 322.
+LaTeX Warning: Float too large for page by 95.07387pt on input line 329.
 
-[11] [12 <./pic/4.1_latent diffusion model.png (PNG copy)> <./pic/4.1_decoding 
-analysis.png (PNG copy)> <./pic/4.1_encoding analysis.png (PNG copy)>]
-Overfull \hbox (11.46706pt too wide) in paragraph at lines 333--334
+[11]
+Overfull \hbox (11.46706pt too wide) in paragraph at lines 340--341
 [][]\C70/rm/m/n/12/5b ö \C70/rm/m/n/12/91 œ \C70/rm/m/n/12/5b û \C70/rm/m/n/12/
 9a å|\C70/rm/m/n/12/ff ^^Z| \C70/rm/m/n/12/4f ^^? \C70/rm/m/n/12/75 (\OT1/cmr/m
 /n/12 PSMs(perceptual sim-i-lar-ity met-rics\C70/rm/m/n/12/61 ^^_ \C70/rm/m/n/1
@@ -1354,20 +1384,21 @@ Overfull \hbox (11.46706pt too wide) in paragraph at lines 333--334
 12/63 ^^G \C70/rm/m/n/12/68 ^^G\OT1/cmr/m/n/12 )\C70/rm/m/n/12/63 ^^G
  []
 
-
-Overfull \hbox (3.88344pt too wide) in paragraph at lines 359--360
+[12] [13 <./pic/4.1_latent diffusion model.png (PNG copy)> <./pic/4.1_decoding 
+analysis.png (PNG copy)> <./pic/4.1_encoding analysis.png (PNG copy)>]
+Overfull \hbox (3.88344pt too wide) in paragraph at lines 366--367
 []\C70/rm/m/n/12/98 y \C70/rm/m/n/12/76 Ó \C70/rm/m/n/12/4e „ \C70/rm/m/n/12/78
  ^^A|\C70/rm/m/n/12/ff ^^Z| [][]$\OT1/cmtt/m/n/12 h t t p s : / / g i t h u b .
  c o m / y u -[] t a k a g i / S t a b l e D i f f u s i o n R e c o n s
  []
 
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 365--366
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
 
  []
 
-
-Overfull \hbox (45.67374pt too wide) in paragraph at lines 383--383
+[14]
+Overfull \hbox (45.67374pt too wide) in paragraph at lines 390--390
 []\OT1/cmr/bx/n/14.4 2022\C70/rm/bx/n/14.4/5e t\OT1/cmr/bx/n/14.4 4\C70/rm/bx/n
 /14.4/67 ^^H \OT1/cmr/bx/n/14.4 Ope-nAI\C70/rm/bx/n/14.4/51 l \C70/rm/bx/n/14.4
 /53 ¯ \C70/rm/bx/n/14.4/63 – \C70/rm/bx/n/14.4/51 ˙ \C70/rm/bx/n/14.4/76 Ñ \C70
@@ -1379,10 +1410,10 @@ Overfull \hbox (45.67374pt too wide) in paragraph at lines 383--383
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 383.
+(hyperref)                removing `\@ifnextchar' on input line 390.
 
-[14]
-Overfull \hbox (22.9314pt too wide) in paragraph at lines 401--402
+
+Overfull \hbox (22.9314pt too wide) in paragraph at lines 408--409
 []\C70/rm/m/n/12/5c ^ \C70/rm/m/n/12/4e é\OT1/cmr/m/n/12 AIGC(AI-Generated Con-
 tent)\C70/rm/m/n/12/83 ^^C \C70/rm/m/n/12/75 t \C70/rm/m/n/12/4e  \C70/rm/m/n/
 12/76 Ñ \C70/rm/m/n/12/82 z \C70/rm/m/n/12/67 / \C70/rm/m/n/12/60 ' \C70/rm/m/n
@@ -1391,13 +1422,13 @@ n/12/5d Â \C70/rm/m/n/12/4f \|\C70/rm/m/n/12/30 ^^B| \OT1/cmr/m/n/12 AIGC\C70/r
 m/m/n/12/4e 
  []
 
-<pic/4.2_unCLIP.png, id=598, 607.51968pt x 265.74281pt>
+<pic/4.2_unCLIP.png, id=626, 607.51968pt x 265.74281pt>
 File: pic/4.2_unCLIP.png Graphic file (type png)
 <use pic/4.2_unCLIP.png>
-Package pdftex.def Info: pic/4.2_unCLIP.png  used on input line 408.
+Package pdftex.def Info: pic/4.2_unCLIP.png  used on input line 415.
 (pdftex.def)             Requested size: 370.49881pt x 162.06638pt.
 
-Overfull \hbox (13.79198pt too wide) in paragraph at lines 413--414
+Overfull \hbox (13.79198pt too wide) in paragraph at lines 420--421
 []\C70/rm/m/n/12/4e $ * \C70/rm/m/n/12/6b e \C70/rm/m/n/12/9a §|\C70/rm/m/n/12/
 ff ^^Z| \OT1/cmr/m/n/12 prior\C70/rm/m/n/12/4e Œ \C70/rm/m/n/12/65 á \C70/rm/m/
 n/12/67 , \C70/rm/m/n/12/63 œ \C70/rm/m/n/12/8f  \C70/rm/m/n/12/75 ^^_ \C70/rm
@@ -1408,7 +1439,7 @@ C70/rm/m/n/12/62 i \C70/rm/m/n/12/65 c \C70/rm/m/n/12/6a ! \C70/rm/m/n/12/57 ã
  []
 
 
-Overfull \hbox (1.32382pt too wide) in paragraph at lines 415--416
+Overfull \hbox (1.32382pt too wide) in paragraph at lines 422--423
 []\C70/rm/m/n/12/56 ˛[][]\OT1/cmr/m/n/12 3[][]\C70/rm/m/n/12/76 Ñ \C70/rm/m/n/1
 2/4e 
  \C70/rm/m/n/12/53 J \C70/rm/m/n/12/66 /\OT1/cmr/m/n/12 CLIP|\C70/rm/m/n/12/ff 
@@ -1418,8 +1449,8 @@ Overfull \hbox (1.32382pt too wide) in paragraph at lines 415--416
 /65 ˆ \C70/rm/m/n/12/50 ^^Y \C70/rm/m/n/12/75 (\OT1/cmr/m/n/12 CLIP img en-
  []
 
-[15 <./pic/4.2_unCLIP.png (PNG copy)>]
-Overfull \hbox (9.42474pt too wide) in paragraph at lines 438--438
+[15]
+Overfull \hbox (9.42474pt too wide) in paragraph at lines 445--445
 []\OT1/cmr/bx/n/14.4 2023\C70/rm/bx/n/14.4/5e t\OT1/cmr/bx/n/14.4 5\C70/rm/bx/n
 /14.4/67 ^^H \OT1/cmr/bx/n/14.4 Mind-Eye\C70/rm/bx/n/14.4/75 ( \C70/rm/bx/n/14.
 4/5b ˘ \C70/rm/bx/n/14.4/6b ‘ \C70/rm/bx/n/14.4/5b f \C70/rm/bx/n/14.4/4e ` \C7
@@ -1430,16 +1461,16 @@ OT1/cmr/bx/n/14.4 fMRI\C70/rm/bx/n/14.4/4e -
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 438.
+(hyperref)                removing `\@ifnextchar' on input line 445.
 
-[16]
-<pic/4.3_mindeye overrall.png, id=615, 416.8665pt x 272.655pt>
+[16 <./pic/4.2_unCLIP.png (PNG copy)>]
+<pic/4.3_mindeye overrall.png, id=645, 416.8665pt x 272.655pt>
 File: pic/4.3_mindeye overrall.png Graphic file (type png)
 <use pic/4.3_mindeye overrall.png>
-Package pdftex.def Info: pic/4.3_mindeye overrall.png  used on input line 464.
+Package pdftex.def Info: pic/4.3_mindeye overrall.png  used on input line 471.
 (pdftex.def)             Requested size: 370.49881pt x 242.33766pt.
 
-Overfull \hbox (79.88069pt too wide) in paragraph at lines 471--472
+Overfull \hbox (79.88069pt too wide) in paragraph at lines 478--479
 \C70/rm/m/n/12/56 ˛ \C70/rm/m/n/12/50 œ \C70/rm/m/n/12/91 Õ \C70/rm/m/n/12/5e ˙
  \C70/rm/m/n/12/54 å \C70/rm/m/n/12/68 ¿ \C70/rm/m/n/12/7d " \C70/rm/m/n/12/4e 
 ˚ \C70/rm/m/n/12/52 °|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/5b ˘ \C70/rm/m/n/12
@@ -1451,8 +1482,8 @@ Overfull \hbox (79.88069pt too wide) in paragraph at lines 471--472
 dEye\C70/rm/m/n/12/5c ^^F\OT1/cmr/m/n/12 fMRI\C70/rm/m/n/12/4f \
  []
 
-
-Overfull \hbox (16.24017pt too wide) in paragraph at lines 475--479
+[17 <./pic/4.3_mindeye overrall.png>]
+Overfull \hbox (16.24017pt too wide) in paragraph at lines 482--486
 \C70/rm/m/n/12/91 Õ \C70/rm/m/n/12/5e ˙|\C70/rm/m/n/12/ff ^^Z| \C70/rm/m/n/12/4
 e Œ\OT1/cmr/m/n/12 fMRI\C70/rm/m/n/12/4f S \C70/rm/m/n/12/7d   \C70/rm/m/n/12/9
 1 Õ \C70/rm/m/n/12/5e ˙ \C70/rm/m/n/12/51 ˙ \C70/rm/m/n/12/89 ∆ … \C70/rm/m/n/1
@@ -1463,7 +1494,7 @@ cmr/m/n/12 CLIP-fMRI\C70/rm/m/n/12/5d L
  []
 
 
-Overfull \hbox (12.0494pt too wide) in paragraph at lines 475--479
+Overfull \hbox (12.0494pt too wide) in paragraph at lines 482--486
 \C70/rm/m/n/12/51 e \C70/rm/m/n/12/66 / \C70/rm/m/n/12/5b ˘ \C70/rm/m/n/12/51 v
  \C70/rm/m/n/12/76 Ñ|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/62 @ \C70/rm/m/n/12/
 4e Â \C70/rm/m/n/12/75 ( \C70/rm/m/n/12/4e é \C70/rm/m/n/12/91 Õ \C70/rm/m/n/12
@@ -1475,8 +1506,8 @@ rm/m/n/12/4f ^^? \C70/rm/m/n/12/75 ( \C70/rm/m/n/12/4e Ü\OT1/cmr/m/n/12 Versati
 le
  []
 
-[17 <./pic/4.3_mindeye overrall.png>] [18]
-Overfull \hbox (2.90642pt too wide) in paragraph at lines 508--508
+[18]
+Overfull \hbox (2.90642pt too wide) in paragraph at lines 515--515
 []\OT1/cmr/bx/n/14.4 2023\C70/rm/bx/n/14.4/5e t\OT1/cmr/bx/n/14.4 1\C70/rm/bx/n
 /14.4/67 ^^H \OT1/cmr/bx/n/14.4 Brain-Diffuser\C70/rm/bx/n/14.4/52 ) \C70/rm/bx
 /n/14.4/75 ( \C70/rm/bx/n/14.4/6f \ \C70/rm/bx/n/14.4/57 ( \C70/rm/bx/n/14.4/62
@@ -1486,10 +1517,10 @@ bx/n/14.4/91 Õ \C70/rm/bx/n/14.4/5e ˙ \C70/rm/bx/n/14.4/81 Í
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 508.
+(hyperref)                removing `\@ifnextchar' on input line 515.
 
 
-Overfull \hbox (17.60468pt too wide) in paragraph at lines 517--518
+Overfull \hbox (17.60468pt too wide) in paragraph at lines 524--525
 []\C70/rm/m/n/12/8b Â \C70/rm/m/n/12/65 á \C70/rm/m/n/12/7a ‡ \C70/rm/m/n/12/57
  (\OT1/cmr/m/n/12 2023CVPR\C70/rm/m/n/12/76 Ñ\OT1/cmr/m/n/12 Takagi\C70/rm/m/n/
 12/54 å\OT1/cmr/m/n/12 Nishimoto[[]]\C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/8b ∫ \C7
@@ -1498,7 +1529,7 @@ L| \C70/rm/m/n/12/57 (\OT1/cmr/m/n/12 MindEye[[]]\C70/rm/m/n/12/5d Â
  []
 
 
-Overfull \hbox (7.20703pt too wide) in paragraph at lines 533--534
+Overfull \hbox (7.20703pt too wide) in paragraph at lines 540--541
 \OT1/cmr/m/n/12 Auto En-coder)|\C70/rm/m/n/12/ff ^^[| \C70/rm/m/n/12/7b , \C70/
 rm/m/n/12/4e å * \C70/rm/m/n/12/96 6 \C70/rm/m/n/12/6b µ\OT1/cmr/m/n/12 (\C70/r
 m/m/n/12/67 ^^@ \C70/rm/m/n/12/7e » \C70/rm/m/n/12/91 Õ \C70/rm/m/n/12/5e ˙\OT1
@@ -1508,8 +1539,8 @@ C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/4e ^^@ * Œ\OT1/cmr/m/n/12 fMRI\C70/rm/m/n/
 12/66  
  []
 
-
-Overfull \hbox (20.16046pt too wide) in paragraph at lines 535--536
+[19]
+Overfull \hbox (20.16046pt too wide) in paragraph at lines 542--543
 \C70/rm/m/n/12/6c ’ \C70/rm/m/n/12/75 ^^_ \C70/rm/m/n/12/62 ^^P \C70/rm/m/n/12/
 76 Ñ \C70/rm/m/n/12/59 ^^M \C70/rm/m/n/12/67 B \C70/rm/m/n/12/81 Í \C70/rm/m/n/
 12/71 6 \C70/rm/m/n/12/56 ˛ \C70/rm/m/n/12/50 œ|\C70/rm/m/n/12/30 ^^B| \C70/rm/
@@ -1521,14 +1552,13 @@ m/n/12/59 Ç \C70/rm/m/n/12/4e  \C70/rm/m/n/12/56 ˛|\C70/rm/m/n/12/ff ^^L| \C70
 VAE\C70/rm/m/n/12/7f ^^V
  []
 
-[19]
-<pic/4.4_first stage.png, id=646, 493.845pt x 259.7203pt>
+<pic/4.4_first stage.png, id=675, 493.845pt x 259.7203pt>
 File: pic/4.4_first stage.png Graphic file (type png)
 <use pic/4.4_first stage.png>
-Package pdftex.def Info: pic/4.4_first stage.png  used on input line 539.
+Package pdftex.def Info: pic/4.4_first stage.png  used on input line 546.
 (pdftex.def)             Requested size: 370.49881pt x 194.84918pt.
 
-Overfull \hbox (4.17366pt too wide) in paragraph at lines 544--545
+Overfull \hbox (4.17366pt too wide) in paragraph at lines 551--552
 []\C70/rm/m/n/12/67 ^^@ \C70/rm/m/n/12/7e » \C70/rm/m/n/12/91 Õ \C70/rm/m/n/12/
 5e ˙\OT1/cmr/m/n/12 /\C70/rm/m/n/12/7b , \C70/rm/m/n/12/4e å \C70/rm/m/n/12/96 
 6 \C70/rm/m/n/12/6b µ|\C70/rm/m/n/12/ff ^^Z| \OT1/cmr/m/n/12 Versatile Dif-fu-s
@@ -1537,7 +1567,7 @@ ion\C70/rm/m/n/12/4e _ \C70/rm/m/n/12/66 / \C70/rm/m/n/12/4e ^^@ \C70/rm/m/n/12
  []
 
 
-Overfull \hbox (49.41406pt too wide) in paragraph at lines 544--545
+Overfull \hbox (49.41406pt too wide) in paragraph at lines 551--552
 \OT1/cmr/m/n/12 fMRI\C70/rm/m/n/12/52 0\OT1/cmr/m/n/12 CLIP-Vision\C70/rm/m/n/1
 2/72 y \C70/rm/m/n/12/5f Å \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/6a ! \C70/rm/m/n/
 12/57 ã|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/67 	\OT1/cmr/m/n/12 257\C70/rm/m/
@@ -1547,7 +1577,7 @@ n/12/4e * \C70/rm/m/n/12/95 ^^? \C70/rm/m/n/12/5e ¶ \C70/rm/m/n/12/4e :\OT1/cmr
  []
 
 
-Overfull \hbox (25.20264pt too wide) in paragraph at lines 544--545
+Overfull \hbox (25.20264pt too wide) in paragraph at lines 551--552
 \C70/rm/m/n/12/79 : \C70/rm/m/n/12/8b Â \C70/rm/m/n/12/56 ˛ \C70/rm/m/n/12/50 œ
  \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/7c { \C70/rm/m/n/12/52 + \C70/rm/m/n/12/76 
 ¯ \C70/rm/m/n/12/51 s \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/4f · \C70/rm/m/n/12/60
@@ -1559,7 +1589,7 @@ m/n/12 patches|\C70/rm/m/n/12/ff ^^[|
  []
 
 
-Overfull \hbox (20.14424pt too wide) in paragraph at lines 544--545
+Overfull \hbox (20.14424pt too wide) in paragraph at lines 551--552
 \OT1/cmr/m/n/12 fMRI\C70/rm/m/n/12/52 0\OT1/cmr/m/n/12 CLIP-Text\C70/rm/m/n/12/
 72 y \C70/rm/m/n/12/5f Å \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/6a ! \C70/rm/m/n/12
 /57 ã|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/4e Œ \C70/rm/m/n/12/8b Â \C70/rm/m/
@@ -1570,7 +1600,7 @@ m/n/12 77\C70/rm/m/n/12/4e *\OT1/cmr/m/n/12 768\C70/rm/m/n/12/7e Ù
  []
 
 
-Overfull \hbox (21.6473pt too wide) in paragraph at lines 544--545
+Overfull \hbox (21.6473pt too wide) in paragraph at lines 551--552
 \OT1/cmr/m/n/12 image pipeline|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/99 ñ \C70/
 rm/m/n/12/51 H \C70/rm/m/n/12/5c ^^F \C70/rm/m/n/12/5d Ú \C70/rm/m/n/12/7e œ \C
 70/rm/m/n/12/75 (\OT1/cmr/m/n/12 VDVAE\C70/rm/m/n/12/91 Õ \C70/rm/m/n/12/5e ˙ \
@@ -1582,7 +1612,7 @@ C70/rm/m/n/12/8f « \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/56 ˛ \C70/rm/m/n/12/50 œ
  []
 
 
-Overfull \hbox (11.20636pt too wide) in paragraph at lines 544--545
+Overfull \hbox (11.20636pt too wide) in paragraph at lines 551--552
 \C70/rm/m/n/12/71 6 \C70/rm/m/n/12/54 ^^N \C70/rm/m/n/12/66 / \C70/rm/m/n/12/53
  ª \C70/rm/m/n/12/56 j \C70/rm/m/n/12/8f « \C70/rm/m/n/12/7a |\C70/rm/m/n/12/f
 f ^^L| \C70/rm/m/n/12/53 ª \C70/rm/m/n/12/56 j \C70/rm/m/n/12/8f « \C70/rm/m/n/
@@ -1592,13 +1622,14 @@ f ^^L| \C70/rm/m/n/12/53 ª \C70/rm/m/n/12/56 j \C70/rm/m/n/12/8f « \C70/rm/m/n/
 /12/65 c\OT1/cmr/m/n/12 pipeline|\C70/rm/m/n/12/ff ^^L|
  []
 
-<pic/4.4_second stage.png, id=648, 489.32813pt x 388.45125pt>
+[20 <./pic/4.4_first stage.png (PNG copy)>]
+<pic/4.4_second stage.png, id=682, 489.32813pt x 388.45125pt>
 File: pic/4.4_second stage.png Graphic file (type png)
 <use pic/4.4_second stage.png>
-Package pdftex.def Info: pic/4.4_second stage.png  used on input line 548.
+Package pdftex.def Info: pic/4.4_second stage.png  used on input line 555.
 (pdftex.def)             Requested size: 312.00119pt x 247.68329pt.
-[20 <./pic/4.4_first stage.png (PNG copy)>]
-Overfull \hbox (89.61722pt too wide) in paragraph at lines 555--556
+
+Overfull \hbox (89.61722pt too wide) in paragraph at lines 562--563
 \OT1/cmr/m/n/12 Reader(Lin, NeurIPS, 2022)|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/1
 2/75 (\OT1/cmr/m/n/12 StyleGAN\C70/rm/m/n/12/8f € \C70/rm/m/n/12/88 L \C70/rm/m
 /n/12/56 ˛ \C70/rm/m/n/12/50 œ \C70/rm/m/n/12/75 ^^_ \C70/rm/m/n/12/62 ^^P|\C70
@@ -1607,7 +1638,7 @@ akagi\C70/rm/m/n/12/54 å\OT1/cmr/m/n/12 Nishimoto\C70/rm/m/n/12/4f ^^?
  []
 
 
-Overfull \hbox (68.84468pt too wide) in paragraph at lines 555--556
+Overfull \hbox (68.84468pt too wide) in paragraph at lines 562--563
 \C70/rm/m/n/12/75 (\OT1/cmr/m/n/12 NSD\C70/rm/m/n/12/65 p \C70/rm/m/n/12/63 n \
 C70/rm/m/n/12/96 ∆ \C70/rm/m/n/12/8f € \C70/rm/m/n/12/88 L \C70/rm/m/n/12/91 Õ 
 \C70/rm/m/n/12/5e ˙ \C70/rm/m/n/12/78 ^^T \C70/rm/m/n/12/7a v|\C70/rm/m/n/12/ff
@@ -1618,7 +1649,7 @@ ical
  []
 
 
-Overfull \hbox (27.48581pt too wide) in paragraph at lines 557--558
+Overfull \hbox (27.48581pt too wide) in paragraph at lines 564--565
 []\OT1/cmr/m/n/12 fMRI\C70/rm/m/n/12/91 Õ \C70/rm/m/n/12/5e ˙ \C70/rm/m/n/12/76
  Ñ \C70/rm/m/n/12/5b ö \C70/rm/m/n/12/91 œ \C70/rm/m/n/12/63 ^^G \C70/rm/m/n/12
 /68 ^^G|\C70/rm/m/n/12/ff ^^Z| \C70/rm/m/n/12/4f N \C70/rm/m/n/12/96 6 \C70/rm/
@@ -1629,7 +1660,7 @@ m/n/12/67 	\OT1/cmr/m/n/12 PixCorr|\C70/rm/m/n/12/30 ^^A| \OT1/cmr/m/n/12 SSIM|
  []
 
 
-Overfull \hbox (20.75238pt too wide) in paragraph at lines 559--560
+Overfull \hbox (20.75238pt too wide) in paragraph at lines 566--567
 \C70/rm/m/n/12/57 ﬂ\OT1/cmr/m/n/12 (V1 V4\C70/rm/m/n/12/53 : \C70/rm/m/n/12/57 
 ﬂ\OT1/cmr/m/n/12 )\C70/rm/m/n/12/51 s \C70/rm/m/n/12/80 T \C70/rm/m/n/12/7d ' \
 C70/rm/m/n/12/5b ∆|\C70/rm/m/n/12/ff ^^L| \OT1/cmr/m/n/12 CLIP\C70/rm/m/n/12/72
@@ -1641,7 +1672,7 @@ C70/rm/m/n/12/5b ∆|\C70/rm/m/n/12/ff ^^L| \OT1/cmr/m/n/12 CLIP\C70/rm/m/n/12/72
  []
 
 [21 <./pic/4.4_second stage.png (PNG copy)>]
-Overfull \hbox (6.89973pt too wide) in paragraph at lines 585--585
+Overfull \hbox (6.89973pt too wide) in paragraph at lines 592--592
 []\OT1/cmr/bx/n/14.4 2022\C70/rm/bx/n/14.4/5e t\OT1/cmr/bx/n/14.4 4\C70/rm/bx/n
 /14.4/67 ^^H \C70/rm/bx/n/14.4/57 ˙ \C70/rm/bx/n/14.4/4e é \C70/rm/bx/n/14.4/97
  ^ \C70/rm/bx/n/14.4/4f µ \C70/rm/bx/n/14.4/51 e \C70/rm/bx/n/14.4/4e ∫ \C70/rm
@@ -1654,10 +1685,10 @@ Overfull \hbox (6.89973pt too wide) in paragraph at lines 585--585
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 585.
+(hyperref)                removing `\@ifnextchar' on input line 592.
 
 [22]
-Overfull \hbox (32.8327pt too wide) in paragraph at lines 599--600
+Overfull \hbox (32.8327pt too wide) in paragraph at lines 606--607
 []\C70/rm/m/n/12/96 d \C70/rm/m/n/12/4e Ü \C70/rm/m/n/12/94 à \C70/rm/m/n/12/5b
  ˘ \C70/rm/m/n/12/59 ' \C70/rm/m/n/12/81 ^^Q \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12
 /7f ^^V \C70/rm/m/n/12/78 ^^A \C70/rm/m/n/12/89 „ \C70/rm/m/n/12/78 ^^A \C70/rm
@@ -1668,13 +1699,13 @@ C70/rm/m/n/12/7e √ \C70/rm/m/n/12/4e Ü ^^@ * \C70/rm/m/n/12/5e è \C70/rm/m/n/12
 /n/12/8b Â\OT1/cmr/m/n/12 GPT\C70/rm/m/n/12/6a !
  []
 
-<pic/4.5_step a2c.png, id=674, 749.04843pt x 496.85625pt>
+<pic/4.5_step a2c.png, id=701, 749.04843pt x 496.85625pt>
 File: pic/4.5_step a2c.png Graphic file (type png)
 <use pic/4.5_step a2c.png>
-Package pdftex.def Info: pic/4.5_step a2c.png  used on input line 611.
+Package pdftex.def Info: pic/4.5_step a2c.png  used on input line 618.
 (pdftex.def)             Requested size: 370.49881pt x 245.75885pt.
 
-Overfull \hbox (17.28197pt too wide) in paragraph at lines 618--619
+Overfull \hbox (17.28197pt too wide) in paragraph at lines 625--626
 []\C70/rm/m/n/12/5c ^^F \C70/rm/m/n/12/8b Ì \C70/rm/m/n/12/8a ^^@ \C70/rm/m/n/1
 2/59 ^^D \C70/rm/m/n/12/74 ^^F \C70/rm/m/n/12/8f « \C70/rm/m/n/12/7a  \C70/rm/
 m/n/12/4e - \C70/rm/m/n/12/6d ; \C70/rm/m/n/12/8d √ \C70/rm/m/n/12/76 Ñ \C70/rm
@@ -1684,13 +1715,13 @@ m/n/12/4e - \C70/rm/m/n/12/6d ; \C70/rm/m/n/12/8d √ \C70/rm/m/n/12/76 Ñ \C70/rm
 | \OT1/cmr/m/n/12 parietal-
  []
 
-[23]
+[23] [24 <./pic/4.5_step a2c.png (PNG copy)>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 642.
+(hyperref)                removing `\@ifnextchar' on input line 649.
 
-[24 <./pic/4.5_step a2c.png (PNG copy)>]
-Overfull \hbox (49.56868pt too wide) in paragraph at lines 656--657
+
+Overfull \hbox (49.56868pt too wide) in paragraph at lines 663--664
 []\C70/rm/m/n/12/57 ˙ \C70/rm/m/n/12/4e é \C70/rm/m/n/12/54 h \C70/rm/m/n/12/67
  ^^_ \C70/rm/m/n/12/60 ' \C70/rm/m/n/12/5e ˆ \C70/rm/m/n/12/8f ﬂ \C70/rm/m/n/12
 /53 Õ \C70/rm/m/n/12/5e î\OT1/cmr/m/n/12 (periodic de-layed re-sponse)\C70/rm/m
@@ -1700,14 +1731,14 @@ m/n/12/5c > \C70/rm/m/n/12/90 Ë \C70/rm/m/n/12/6d ; \C70/rm/m/n/12/52 ®\OT1/cmr
  []
 
 [25]
-<pic/4.6_memory encoding model.png, id=695, 468.24937pt x 249.93375pt>
+<pic/4.6_memory encoding model.png, id=724, 468.24937pt x 249.93375pt>
 File: pic/4.6_memory encoding model.png Graphic file (type png)
 <use pic/4.6_memory encoding model.png>
 Package pdftex.def Info: pic/4.6_memory encoding model.png  used on input line 
-674.
+681.
 (pdftex.def)             Requested size: 370.49881pt x 197.76965pt.
 
-Overfull \hbox (65.5818pt too wide) in paragraph at lines 681--682
+Overfull \hbox (65.5818pt too wide) in paragraph at lines 688--689
 []\OT1/cmr/m/n/12 RetinaMapper\C70/rm/m/n/12/5c ^^F \C70/rm/m/n/12/4f S \C70/rm
 /m/n/12/7d   \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/4e 	 \C70/rm/m/n/12/7e Ù \C70/r
 m/m/n/12/7a z \C70/rm/m/n/12/95 Ù \C70/rm/m/n/12/57 P \C70/rm/m/n/12/68 ^^G \C7
@@ -1718,7 +1749,7 @@ G|\C70/rm/m/n/12/30 ^^B| \OT1/cmr/m/n/12 LayerSelector\C70/rm/m/n/12/5c ^^F
  []
 
 
-Overfull \hbox (0.1144pt too wide) in paragraph at lines 697--698
+Overfull \hbox (0.1144pt too wide) in paragraph at lines 704--705
 []\C70/rm/m/n/12/8b Â \C70/rm/m/n/12/5d Â \C70/rm/m/n/12/4f \ \C70/rm/m/n/12/7e
  œ \C70/rm/m/n/12/8f « \C70/rm/m/n/12/98 Ñ \C70/rm/m/n/12/5b û \C70/rm/m/n/12/9
 a å \C70/rm/m/n/12/53 — \C70/rm/m/n/12/73 ∞ \C70/rm/m/n/12/4e Ü\OT1/cmr/m/n/12 
@@ -1732,10 +1763,10 @@ e
 [26 <./pic/4.6_memory encoding model.png (PNG copy)>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 708.
+(hyperref)                removing `\@ifnextchar' on input line 715.
 
 
-Overfull \hbox (15.57054pt too wide) in paragraph at lines 721--722
+Overfull \hbox (15.57054pt too wide) in paragraph at lines 728--729
 []\C70/rm/m/n/12/4f ^^? \C70/rm/m/n/12/75 (\OT1/cmr/m/n/12 Transformer\C70/rm/m
 /n/12/76 Ñ\OT1/cmr/m/n/12 encode-decode\C70/rm/m/n/12/65 π \C70/rm/m/n/12/6c ’ 
 \C70/rm/m/n/12/67 e \C70/rm/m/n/12/5b å \C70/rm/m/n/12/62 ^^P \C70/rm/m/n/12/4e
@@ -1745,7 +1776,7 @@ Overfull \hbox (15.57054pt too wide) in paragraph at lines 721--722
  []
 
 
-Overfull \hbox (8.4075pt too wide) in paragraph at lines 727--728
+Overfull \hbox (8.4075pt too wide) in paragraph at lines 734--735
 \OT1/cmr/m/n/12 form-ers)|\C70/rm/m/n/12/30 ^^A| \C70/rm/m/n/12/7f ^^V \C70/rm/
 m/n/12/78 ^^A \C70/rm/m/n/12/56 h\OT1/cmr/m/n/12 -\C70/rm/m/n/12/89 „ \C70/rm/m
 /n/12/78 ^^A \C70/rm/m/n/12/56 h \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/89 ∆ … \C70
@@ -1755,7 +1786,7 @@ Trans-
  []
 
 
-Overfull \hbox (12.70934pt too wide) in paragraph at lines 731--732
+Overfull \hbox (12.70934pt too wide) in paragraph at lines 738--739
 []\C70/rm/m/n/12/4f ^^? \C70/rm/m/n/12/75 (\OT1/cmr/m/n/12 Transformer\C70/rm/m
 /n/12/76 Ñ\OT1/cmr/m/n/12 encoder-decoder\C70/rm/m/n/12/6a ! \C70/rm/m/n/12/57 
 ã \C70/rm/m/n/12/67 e \C70/rm/m/n/12/5b f \C70/rm/m/n/12/4e ` Œ \C70/rm/m/n/12/
@@ -1764,53 +1795,54 @@ Overfull \hbox (12.70934pt too wide) in paragraph at lines 731--732
 /76 Ñ
  []
 
-<pic/4.7_model architecture.png, id=705, 645.91313pt x 372.64218pt>
+[27]
+<pic/4.7_model architecture.png, id=739, 645.91313pt x 372.64218pt>
 File: pic/4.7_model architecture.png Graphic file (type png)
 <use pic/4.7_model architecture.png>
-Package pdftex.def Info: pic/4.7_model architecture.png  used on input line 735
+Package pdftex.def Info: pic/4.7_model architecture.png  used on input line 742
 .
 (pdftex.def)             Requested size: 370.49881pt x 213.75015pt.
-[27]
-Overfull \hbox (9.31696pt too wide) in paragraph at lines 748--749
+
+Overfull \hbox (9.31696pt too wide) in paragraph at lines 755--756
 []\C70/rm/m/n/12/5f ^^@ \C70/rm/m/n/12/6e ê \C70/rm/m/n/12/4e „ \C70/rm/m/n/12/
 78 ^^A|\C70/rm/m/n/12/ff ^^Z| \OT1/cmr/m/n/12 https://github.com/Hosseinadeli/a
 lgonauts2023[]transformers 
  []
 
+[28 <./pic/4.7_model architecture.png (PNG copy)>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 762.
+(hyperref)                removing `\@ifnextchar' on input line 769.
 
 
-Overfull \hbox (15.80066pt too wide) in paragraph at lines 763--764
+Overfull \hbox (15.80066pt too wide) in paragraph at lines 770--771
 \C70/rm/m/n/12/68 ^^G \C70/rm/m/n/12/98 ò|\C70/rm/m/n/12/ff ^^Z| \OT1/cmr/m/n/1
 2 THE ALGO-NAUTS PROJECT 2023 CHAL-LENGE: UARK-UALBANY
  []
 
-[28 <./pic/4.7_model architecture.png (PNG copy)>]
-<pic/4.8_pretraining stage.png, id=718, 807.015pt x 222.07968pt>
+<pic/4.8_pretraining stage.png, id=747, 807.015pt x 222.07968pt>
 File: pic/4.8_pretraining stage.png Graphic file (type png)
 <use pic/4.8_pretraining stage.png>
-Package pdftex.def Info: pic/4.8_pretraining stage.png  used on input line 786.
+Package pdftex.def Info: pic/4.8_pretraining stage.png  used on input line 793.
 
 (pdftex.def)             Requested size: 370.49881pt x 101.95456pt.
-<pic/4.8_fine-tuning stage.png, id=720, 846.16125pt x 294.34969pt>
+<pic/4.8_fine-tuning stage.png, id=749, 846.16125pt x 294.34969pt>
 File: pic/4.8_fine-tuning stage.png Graphic file (type png)
 <use pic/4.8_fine-tuning stage.png>
-Package pdftex.def Info: pic/4.8_fine-tuning stage.png  used on input line 794.
+Package pdftex.def Info: pic/4.8_fine-tuning stage.png  used on input line 801.
 
 (pdftex.def)             Requested size: 370.49881pt x 128.88097pt.
- [29 <./pic/4.8_pretraining stage.png (PNG copy)>]
+[29 <./pic/4.8_pretraining stage.png (PNG copy)>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 821.
+(hyperref)                removing `\@ifnextchar' on input line 828.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 821.
+(hyperref)                removing `subscript' on input line 828.
 
 [30 <./pic/4.8_fine-tuning stage.png (PNG copy)>]
-Overfull \hbox (32.07202pt too wide) in paragraph at lines 841--842
+Overfull \hbox (32.07202pt too wide) in paragraph at lines 848--849
 []\C70/rm/m/n/12/5f ^^@ \C70/rm/m/n/12/52 ^^[ \C70/rm/m/n/12/4e Ü $ \C70/rm/m/n
 /12/96 6 \C70/rm/m/n/12/6b µ \C70/rm/m/n/12/91 Õ \C70/rm/m/n/12/5e ˙ \C70/rm/m/
 n/12/76 Ñ \C70/rm/m/n/12/65 π \C70/rm/m/n/12/6c ’|\C70/rm/m/n/12/ff ^^Z| \C70/r
@@ -1821,18 +1853,18 @@ m/m/n/12/7b , \C70/rm/m/n/12/4e ^^@ \C70/rm/m/n/12/96 6 \C70/rm/m/n/12/6b µ \C7
 n/12 fMRI\C70/rm/m/n/12/7f ^^V
  []
 
-<pic/4.9_pipeline.jpg, id=734, 409.66129pt x 146.31229pt>
+<pic/4.9_pipeline.jpg, id=763, 409.66129pt x 146.31229pt>
 File: pic/4.9_pipeline.jpg Graphic file (type jpg)
 <use pic/4.9_pipeline.jpg>
-Package pdftex.def Info: pic/4.9_pipeline.jpg  used on input line 849.
+Package pdftex.def Info: pic/4.9_pipeline.jpg  used on input line 856.
 (pdftex.def)             Requested size: 370.49881pt x 132.32503pt.
 [31 <./pic/4.9_pipeline.jpg>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 881.
+(hyperref)                removing `\@ifnextchar' on input line 888.
 
 [32]
-Overfull \hbox (13.03952pt too wide) in paragraph at lines 890--891
+Overfull \hbox (13.03952pt too wide) in paragraph at lines 897--898
 \C70/rm/m/n/12/6a ! \C70/rm/m/n/12/57 ã|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/5
 1 v \C70/rm/m/n/12/67 a \C70/rm/m/n/12/4e ˆ \C70/rm/m/n/12/67 e \C70/rm/m/n/12/
 81 Í \C70/rm/m/n/12/4e Œ \C70/rm/m/n/12/75 ( \C70/rm/m/n/12/62 7 \C70/rm/m/n/12
@@ -1844,7 +1876,7 @@ rm/m/n/12/80 ^^L\OT1/cmr/m/n/12 ControlNet\C70/rm/m/n/12/62 @
  []
 
 
-Overfull \hbox (14.7892pt too wide) in paragraph at lines 890--891
+Overfull \hbox (14.7892pt too wide) in paragraph at lines 897--898
 \OT1/cmr/m/n/12 edges)|\C70/rm/m/n/12/30 ^^A| \C70/rm/m/n/12/97 ^^M \C70/rm/m/n
 /12/59 + \C70/rm/m/n/12/7e ø \C70/rm/m/n/12/67 a\OT1/cmr/m/n/12 (Hough lines)|\
 C70/rm/m/n/12/30 ^^A| \C70/rm/m/n/12/75 ( \C70/rm/m/n/12/62 7 \C70/rm/m/n/12/6d
@@ -1854,7 +1886,7 @@ C70/rm/m/n/12/30 ^^A| \C70/rm/m/n/12/75 ( \C70/rm/m/n/12/62 7 \C70/rm/m/n/12/6d
  []
 
 
-Overfull \hbox (36.1706pt too wide) in paragraph at lines 904--905
+Overfull \hbox (36.1706pt too wide) in paragraph at lines 911--912
 \C70/rm/m/n/12/52 ü \C70/rm/m/n/12/80 ˝ \C70/rm/m/n/12/57 W|\C70/rm/m/n/12/ff ^
 ^L| \C70/rm/m/n/12/6b ‘ \C70/rm/m/n/12/59 Ç \C70/rm/m/n/12/6b ã \C70/rm/m/n/12/
 5d Ó \C70/rm/m/n/12/57 W|\C70/rm/m/n/12/30 ^^A| \C70/rm/m/n/12/53 w \C70/rm/m/n
@@ -1866,7 +1898,7 @@ et\C70/rm/m/n/12/6d ˚
  []
 
 
-Overfull \hbox (20.21518pt too wide) in paragraph at lines 904--905
+Overfull \hbox (20.21518pt too wide) in paragraph at lines 911--912
 \C70/rm/m/n/12/57 (\OT1/cmr/m/n/12 Stable Dif-fu-sion\C70/rm/m/n/12/4e -|\C70/r
 m/m/n/12/ff ^^L| \C70/rm/m/n/12/88 ´ \C70/rm/m/n/12/95 ^^A \C70/rm/m/n/12/5b ö 
 \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/53 ü \C70/rm/m/n/12/59 À \C70/rm/m/n/12/53 ¬
@@ -1877,7 +1909,7 @@ m/m/n/12/ff ^^L| \C70/rm/m/n/12/88 ´ \C70/rm/m/n/12/95 ^^A \C70/rm/m/n/12/5b ö
  []
 
 
-Overfull \hbox (23.84947pt too wide) in paragraph at lines 906--907
+Overfull \hbox (23.84947pt too wide) in paragraph at lines 913--914
 \C70/rm/m/n/12/4e * \C70/rm/m/n/12/53 ¬ \C70/rm/m/n/12/65 p \C70/rm/m/n/12/96 ∆
 $\OT1/cmr/m/n/12 ^^B[]$\C70/rm/m/n/12/54 å$\OT1/cmr/m/n/12 ^^B[]$|\C70/rm/m/n/1
 2/ff ^^L| \C70/rm/m/n/12/67 ^^@ \C70/rm/m/n/12/7e » \C70/rm/m/n/12/76 Ñ \C70/rm
@@ -1890,13 +1922,13 @@ y/m/n/12 F\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x \OT1/cmr/m/n/12 + \OMS/cmsy/m/n/1
  []
 
 [33]
-<pic/4.10_ControlNet.png, id=764, 347.2975pt x 175.15437pt>
+<pic/4.10_ControlNet.png, id=795, 347.2975pt x 175.15437pt>
 File: pic/4.10_ControlNet.png Graphic file (type png)
 <use pic/4.10_ControlNet.png>
-Package pdftex.def Info: pic/4.10_ControlNet.png  used on input line 910.
+Package pdftex.def Info: pic/4.10_ControlNet.png  used on input line 917.
 (pdftex.def)             Requested size: 370.49881pt x 186.86276pt.
 
-Overfull \hbox (36.95996pt too wide) in paragraph at lines 917--918
+Overfull \hbox (36.95996pt too wide) in paragraph at lines 924--925
 \C70/rm/m/n/12/89 …\OT1/cmr/m/n/12 Transformer(Vision, ViT)|\C70/rm/m/n/12/30 ^
 ^B| \C70/rm/m/n/12/6b œ \C70/rm/m/n/12/4e *\OT1/cmr/m/n/12 ViT\C70/rm/m/n/12/53
  ^^E \C70/rm/m/n/12/54 + \C70/rm/m/n/12/4e Ü \C70/rm/m/n/12/82 Â \C70/rm/m/n/12
@@ -1906,14 +1938,14 @@ Overfull \hbox (36.95996pt too wide) in paragraph at lines 917--918
  []
 
 [34 <./pic/4.10_ControlNet.png (PNG copy)>]
-<pic/4.10_ControlNetResults.jpg, id=773, 496.67436pt x 248.33719pt>
+<pic/4.10_ControlNetResults.jpg, id=802, 496.67436pt x 248.33719pt>
 File: pic/4.10_ControlNetResults.jpg Graphic file (type jpg)
 <use pic/4.10_ControlNetResults.jpg>
-Package pdftex.def Info: pic/4.10_ControlNetResults.jpg  used on input line 927
+Package pdftex.def Info: pic/4.10_ControlNetResults.jpg  used on input line 934
 .
 (pdftex.def)             Requested size: 370.49881pt x 185.25204pt.
 
-Overfull \hbox (34.99443pt too wide) in paragraph at lines 934--935
+Overfull \hbox (34.99443pt too wide) in paragraph at lines 941--942
 \C70/rm/m/n/12/51 ˝ \C70/rm/m/n/12/65 p \C70/rm/m/n/12/8d K \C70/rm/m/n/12/50 <
 |\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/80 ^^L \C70/rm/m/n/12/97 ^ \C70/rm/m/n/1
 2/4f ^^? \C70/rm/m/n/12/75 ($\OT1/cmr/m/n/12 0$\C70/rm/m/n/12/8d K \C70/rm/m/n/
@@ -1925,7 +1957,104 @@ Overfull \hbox (34.99443pt too wide) in paragraph at lines 934--935
  []
 
 [35 <./pic/4.10_ControlNetResults.jpg>]
-Overfull \hbox (6.02478pt too wide) in paragraph at lines 982--982
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 964.
+
+<pic/4.11_BrainDiVE_Architecture.png, id=814, 645.91313pt x 283.55937pt>
+File: pic/4.11_BrainDiVE_Architecture.png Graphic file (type png)
+<use pic/4.11_BrainDiVE_Architecture.png>
+Package pdftex.def Info: pic/4.11_BrainDiVE_Architecture.png  used on input lin
+e 990.
+(pdftex.def)             Requested size: 370.49881pt x 162.65163pt.
+[36]
+Overfull \hbox (4.56207pt too wide) in paragraph at lines 997--998
+\C70/rm/m/n/12/69 Ç \C70/rm/m/n/12/5f ı \C70/rm/m/n/12/7f ^^V \C70/rm/m/n/12/78
+ ^^A \C70/rm/m/n/12/56 h\OT1/cmr/m/n/12 (image-to-concept en-coder)|\C70/rm/m/n
+/12/ff ^^L| \C70/rm/m/n/12/5e v \C70/rm/m/n/12/5b ˚ \C70/rm/m/n/12/6c B \C70/rm
+/m/n/12/51 v \C70/rm/m/n/12/4e ^^N \C70/rm/m/n/12/65 á \C70/rm/m/n/12/67 , \C70
+/rm/m/n/12/52 0 \C70/rm/m/n/12/69 Ç \C70/rm/m/n/12/5f ı \C70/rm/m/n/12/7f ^^V \
+C70/rm/m/n/12/78 ^^A \C70/rm/m/n/12/56 h\OT1/cmr/m/n/12 (text-
+ []
+
+
+Overfull \hbox (9.11041pt too wide) in paragraph at lines 997--998
+\OT1/cmr/m/n/12 to-concept en-coder)\C70/rm/m/n/12/76 Ñ ¯ \C70/rm/m/n/12/4f < \
+C70/rm/m/n/12/5e ¶ ¶ \C70/rm/m/n/12/91 œ|\C70/rm/m/n/12/30 ^^B| \OT1/cmr/m/n/12
+ BrainDiVE\C70/rm/m/n/12/90 ^^Z \C70/rm/m/n/12/8f « \C70/rm/m/n/12/56 ˛ \C70/rm
+/m/n/12/50 œ \C70/rm/m/n/12/52 0 \C70/rm/m/n/12/59 ' \C70/rm/m/n/12/81 ^^Q \C70
+/rm/m/n/12/7f ^^V \C70/rm/m/n/12/78 ^^A \C70/rm/m/n/12/56 h\OT1/cmr/m/n/12 (ima
+ge-
+ []
+
+[37 <./pic/4.11_BrainDiVE_Architecture.png (PNG copy)>]
+Overfull \hbox (113.79071pt too wide) in paragraph at lines 1003--1004
+\C70/rm/m/n/12/4f S \C70/rm/m/n/12/7d   \C70/rm/m/n/12/5f R \C70/rm/m/n/12/4e ^
+^@ \C70/rm/m/n/12/53 ^^V \C70/rm/m/n/12/52 0$\OML/cmm/m/it/12 ^^V \OT1/cmr/m/n/
+12 = 0\OML/cmm/m/it/12 ; ^^[ \OT1/cmr/m/n/12 = 1$|\C70/rm/m/n/12/30 ^^B| \C70/r
+m/m/n/12/8b ≠ \C70/rm/m/n/12/7e √ \C70/rm/m/n/12/96 ∆\OT1/cmr/m/n/12 :\C70/rm/m
+/n/12/6d K \C70/rm/m/n/12/8b ’ \C70/rm/m/n/12/96 ∆\OT1/cmr/m/n/12 =9:1|\C70/rm/
+m/n/12/30 ^^B| \OT1/cmr/m/n/12 BrainDiVE\C70/rm/m/n/12/4f ^^? \C70/rm/m/n/12/75
+ (\OT1/cmtt/m/n/12 stable-diffusion-2-1-base\C70/rm/m/n/12/75 ^^_
+ []
+
+
+Overfull \hbox (32.03868pt too wide) in paragraph at lines 1003--1004
+\C70/rm/m/n/12/62 ^^P$\OT1/cmr/m/n/12 512 \OMS/cmsy/m/n/12 ^^B \OT1/cmr/m/n/12 
+512$\C70/rm/m/n/12/52 ^^F \C70/rm/m/n/12/8f ® \C70/rm/m/n/12/73 á \C70/rm/m/n/1
+2/76 Ñ \C70/rm/m/n/12/56 ˛ \C70/rm/m/n/12/50 œ|\C70/rm/m/n/12/30 ^^B| \C70/rm/m
+/n/12/59 ' \C70/rm/m/n/12/81 ^^Q \C70/rm/m/n/12/7f ^^V \C70/rm/m/n/12/78 ^^A \C
+70/rm/m/n/12/56 h \C70/rm/m/n/12/4f ^^? \C70/rm/m/n/12/75 (\OT1/cmtt/m/n/12 ViT
+-B/16|\C70/rm/m/n/12/ff ^^L| \OT1/cmr/m/n/12 CLIP\C70/rm/m/n/12/4f ^^? \C70/rm/
+m/n/12/75 (\OT1/cmtt/m/n/12 CoCa ViT-L/14|\C70/rm/m/n/12/30 ^^B|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1003--1004
+
+ []
+
+<pic/4.11_Visualizing_category_selective_voxels.png, id=828, 342.27875pt x 150.
+06062pt>
+File: pic/4.11_Visualizing_category_selective_voxels.png Graphic file (type png
+)
+<use pic/4.11_Visualizing_category_selective_voxels.png>
+Package pdftex.def Info: pic/4.11_Visualizing_category_selective_voxels.png  us
+ed on input line 1013.
+(pdftex.def)             Requested size: 370.49881pt x 162.44543pt.
+
+Overfull \hbox (3.9121pt too wide) in paragraph at lines 1020--1021
+[]\C70/rm/m/n/12/4e ; \C70/rm/m/n/12/89 Å \C70/rm/m/n/12/94 à \C70/rm/m/n/12/5b
+ ˘ \C70/rm/m/n/12/67 ï \C70/rm/m/n/12/53 ˆ \C70/rm/m/n/12/97 b \C70/rm/m/n/12/5
+b T \C70/rm/m/n/12/53 :\OT1/cmr/m/n/12 (occipital face area, OFA)\C70/rm/m/n/12
+/54 å \C70/rm/m/n/12/68 ≠ \C70/rm/m/n/12/72 ∂ \C70/rm/m/n/12/56 ﬁ \C70/rm/m/n/1
+2/97 b \C70/rm/m/n/12/5b T \C70/rm/m/n/12/53 :\OT1/cmr/m/n/12 (fusiform
+ []
+
+
+Overfull \hbox (23.68314pt too wide) in paragraph at lines 1024--1025
+[]\C70/rm/m/n/12/4f ^^? \C70/rm/m/n/12/75 (\OT1/cmr/m/n/12 vmf-clustering[[]]\C
+70/rm/m/n/12/80 Z \C70/rm/m/n/12/7c { \C70/rm/m/n/12/56 h \C70/rm/m/n/12/5b ˘ \
+C70/rm/m/n/12/53 ü \C70/rm/m/n/12/59 À \C70/rm/m/n/12/52 : \C70/rm/m/n/12/6f ¿ 
+\C70/rm/m/n/12/56 ˛ \C70/rm/m/n/12/50 œ \C70/rm/m/n/12/8f € \C70/rm/m/n/12/88 L
+ \C70/rm/m/n/12/4e å \C70/rm/m/n/12/80 Z \C70/rm/m/n/12/7c {|\C70/rm/m/n/12/30 
+^^A| \C70/rm/m/n/12/5b ˘\OT1/cmr/m/n/12 BrainDiVE\C70/rm/m/n/12/75 ^^_
+ []
+
+[38 <./pic/4.11_Visualizing_category_selective_voxels.png (PNG copy)>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 1046.
+
+[39]
+<pic/4.12_Architecture_of_BrainSCUBA.png, id=852, 609.77812pt x 419.5675pt>
+File: pic/4.12_Architecture_of_BrainSCUBA.png Graphic file (type png)
+<use pic/4.12_Architecture_of_BrainSCUBA.png>
+Package pdftex.def Info: pic/4.12_Architecture_of_BrainSCUBA.png  used on input
+ line 1071.
+(pdftex.def)             Requested size: 370.49881pt x 254.93707pt.
+ [40 <./pic/4.12_Architecture_of_BrainSCUBA.png (PNG copy)>]
+Overfull \hbox (6.02478pt too wide) in paragraph at lines 1123--1123
 []\C70/rm/bx/n/14.4/57 ˙ \C70/rm/bx/n/14.4/4e é\OT1/cmr/bx/n/14.4 NeRF\C70/rm/b
 x/n/14.4/76 Ñ \C70/rm/bx/n/14.4/4e 	 \C70/rm/bx/n/14.4/7e Ù \C70/rm/bx/n/14.4/8
 9 ∆ … \C70/rm/bx/n/14.4/5e t ¶ \C70/rm/bx/n/14.4/8f € \C70/rm/bx/n/14.4/5c U \C
@@ -1938,15 +2067,15 @@ x/n/14.4 )
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 11.74988pt
-(hyperref)                replaced by space on input line 982.
+(hyperref)                replaced by space on input line 1123.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 11.74988pt
-(hyperref)                replaced by space on input line 982.
+(hyperref)                replaced by space on input line 1123.
 
-[36]
-Overfull \hbox (13.22003pt too wide) in paragraph at lines 1012--1013
+[41]
+Overfull \hbox (13.22003pt too wide) in paragraph at lines 1153--1154
 []\C70/rm/m/n/12/65 π \C70/rm/m/n/12/68 H|\C70/rm/m/n/12/ff ^^Z| \C70/rm/m/n/12
 /57 ˙ \C70/rm/m/n/12/4e é \C70/rm/m/n/12/79 ^ \C70/rm/m/n/12/7e œ \C70/rm/m/n/1
 2/8f ê \C70/rm/m/n/12/5c ^^D \C70/rm/m/n/12/57 : \C70/rm/m/n/12/76 Ñ\OT1/cmr/m/
@@ -1957,8 +2086,8 @@ m/m/n/12/7e √ \C70/rm/m/n/12/7b V \C70/rm/m/n/12/75 e \C70/rm/m/n/12/4e Œ\OT1/c
 mr/m/n/12 2D\C70/rm/m/n/12/56 ˛
  []
 
-[37]
-Overfull \hbox (3.4494pt too wide) in paragraph at lines 1018--1019
+[42]
+Overfull \hbox (3.4494pt too wide) in paragraph at lines 1159--1160
 []\C70/rm/m/n/12/65 π \C70/rm/m/n/12/68 H|\C70/rm/m/n/12/ff ^^Z| \C70/rm/m/n/12
 /5c ^^F \C70/rm/m/n/12/98 Ñ \C70/rm/m/n/12/8b ≠ \C70/rm/m/n/12/7e √\OT1/cmr/m/n
 /12 2D\C70/rm/m/n/12/75 ^^_ \C70/rm/m/n/12/62 ^^P \C70/rm/m/n/12/5f ^^O \C70/rm
@@ -1969,67 +2098,66 @@ m/m/n/12/4e : \C70/rm/m/n/12/51 H \C70/rm/m/n/12/9a å|\C70/rm/m/n/12/ff ^^L| \C
 7\OT1/cmr/m/n/12 (SDS)\C70/rm/m/n/12/63 _
  []
 
-[38] (./Note.bbl [39]) [40] [41] (./Note.aux)
+[43] (./Note.bbl [44] [45]) [46] [47] (./Note.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2022/07/14>
  ***********
 Package rerunfilecheck Info: File `Note.out' has not changed.
-(rerunfilecheck)             Checksum: D4AB37BFC478FAEE2E1328746780BB42;10252.
+(rerunfilecheck)             Checksum: 672448BE2BFC345B42247B68E24EE438;11077.
  ) 
 Here is how much of TeX's memory you used:
- 29328 strings out of 475188
- 584147 string characters out of 5757325
- 1947248 words of memory out of 5000000
- 49528 multiletter control sequences out of 15000+600000
- 655181 words of font info for 393 fonts, out of 8000000 for 9000
+ 29494 strings out of 475188
+ 587734 string characters out of 5757325
+ 1948248 words of memory out of 5000000
+ 49648 multiletter control sequences out of 15000+600000
+ 659501 words of font info for 409 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  88i,9n,92p,1071b,581s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/s
 imsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows
-/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:
-/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun
-.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Font
-s/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Wind
-ows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf>
-<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/sim
-hei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/F
+/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:
+/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun
+.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Font
+s/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Wind
+ows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf>
+<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/sim
+sun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/F
 onts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/W
 indows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.t
-tf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/
-simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Window
-s/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c
-:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsu
-n.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fon
-ts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Win
-dows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc
+tf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/
+simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Window
+s/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c
+:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhe
+i.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fon
+ts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Win
+dows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf
 ><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/si
-mhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/
-Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/
-Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.
-ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts
-/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windo
-ws/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><
+msun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/
+Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/
+Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfa
+ng.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/
+Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><
 c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sims
 un.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fo
 nts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wi
-ndows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.tt
-f><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/s
+ndows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.tt
+c><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/s
 imsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows
 /Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:
-/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun
-.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Font
-s/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Wind
-ows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf>
-<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/sim
-hei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/F
-onts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/W
-indows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.t
-tc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/
-simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Window
-s/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c
-:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsu
-n.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fon
+/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei
+.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Font
+s/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wind
+ows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>
+<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sim
+sun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/F
+onts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/W
+indows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.t
+tf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/
+simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Window
+s/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c
+:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhe
+i.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fon
 ts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Win
 dows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc
 ><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/si
@@ -2039,33 +2167,38 @@ Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.
 ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts
 /simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windo
 ws/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><
-c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simh
-ei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fo
+c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sims
+un.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fo
 nts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wi
 ndows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.tt
-c><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/s
-imhei.ttf><c:/Windows/Fonts/simhei.ttf><d:/TextProcessing/Latex/texlive/2023/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/TextProcessing/Latex/tex
-live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/TextProcessi
-ng/Latex/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/T
-extProcessing/Latex/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
-0.pfb><d:/TextProcessing/Latex/texlive/2023/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr12.pfb><d:/TextProcessing/Latex/texlive/2023/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr8.pfb><d:/TextProcessing/Latex/texlive/2023/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsl12.pfb><d:/TextProcessing/Latex/texlive/2023/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><d:/TextProcessing/Latex/tex
-live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/TextProcessi
-ng/Latex/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/T
-extProcessing/Latex/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti
-12.pfb><d:/TextProcessing/Latex/texlive/2023/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmtt12.pfb><d:/TextProcessing/Latex/texlive/2023/texmf-dist/fonts/type1
-/public/amsfonts/symbols/msbm10.pfb><d:/TextProcessing/Latex/texlive/2023/texmf
--dist/fonts/type1/public/cm-super/sfbx1200.pfb><d:/TextProcessing/Latex/texlive
-/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on Note.pdf (44 pages, 16204932 bytes).
+c><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/s
+imsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows
+/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:
+/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun
+.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Font
+s/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Wind
+ows/Fonts/simhei.ttf><d:/TextProcessing/Latex/texlive/2023/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmbx12.pfb><d:/TextProcessing/Latex/texlive/2023/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/TextProcessing/Latex/texlive/2
+023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/TextProcessing/Late
+x/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/TextProc
+essing/Latex/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+d:/TextProcessing/Latex/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr8.pfb><d:/TextProcessing/Latex/texlive/2023/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmsl12.pfb><d:/TextProcessing/Latex/texlive/2023/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmss12.pfb><d:/TextProcessing/Latex/texlive/2023/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/TextProcessing/Latex/texlive/2
+023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/TextProcessing/Late
+x/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><d:/TextPro
+cessing/Latex/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb
+><d:/TextProcessing/Latex/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/s
+ymbols/msbm10.pfb><d:/TextProcessing/Latex/texlive/2023/texmf-dist/fonts/type1/
+public/cm-super/sfbx1200.pfb><d:/TextProcessing/Latex/texlive/2023/texmf-dist/f
+onts/type1/public/cm-super/sfrm1200.pfb>
+Output written on Note.pdf (51 pages, 22101659 bytes).
 PDF statistics:
- 1399 PDF objects out of 1440 (max. 8388607)
- 1054 compressed objects within 11 object streams
- 114 named destinations out of 1000 (max. 500000)
- 713 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1514 PDF objects out of 1728 (max. 8388607)
+ 1148 compressed objects within 12 object streams
+ 130 named destinations out of 1000 (max. 500000)
+ 744 words of extra memory for PDF output out of 10000 (max. 10000000)
 

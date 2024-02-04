@@ -76,10 +76,33 @@ Sikun Lin, Thomas Sprague, and Ambuj~K Singh.
 Lvmin Zhang, Anyi Rao, and Maneesh Agrawala.
 \newblock Adding conditional control to text-to-image diffusion models, 2023.
 
+\bibitem{luo2023brain}
+Andrew~F. Luo, Margaret~M. Henderson, Leila Wehbe, and Michael~J. Tarr.
+\newblock Brain diffusion for visual exploration: Cortical discovery using
+  large scale generative models, 2023.
+
 \bibitem{Engel1997RetinotopicOI}
 Stephen~A. Engel, Gary~H. Glover, and Brian~A. Wandell.
 \newblock Retinotopic organization in human visual cortex and the spatial
   precision of functional mri.
 \newblock {\em Cerebral cortex}, 7 2:181--92, 1997.
+
+\bibitem{10.7554/eLife.77599}
+Jacob~S Prince, Ian Charest, Jan~W Kurzawski, John~A Pyles, Michael~J Tarr, and
+  Kendrick~N Kay.
+\newblock Improving the accuracy of single-trial fmri response estimates using
+  glmsingle.
+\newblock {\em eLife}, 11:e77599, nov 2022.
+
+\bibitem{10.5555/1046920.1088718}
+Arindam Banerjee, Inderjit~S. Dhillon, Joydeep Ghosh, and Suvrit Sra.
+\newblock Clustering on the unit hypersphere using von mises-fisher
+  distributions.
+\newblock {\em J. Mach. Learn. Res.}, 6:1345–1382, dec 2005.
+
+\bibitem{luo2023brainscuba}
+Andrew~F. Luo, Margaret~M. Henderson, Michael~J. Tarr, and Leila Wehbe.
+\newblock Brainscuba: Fine-grained natural language captions of visual cortex
+  selectivity, 2023.
 
 \end{thebibliography}
